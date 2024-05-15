@@ -46,6 +46,7 @@
     <div class="sidebar">
         <input id="searchInput" type="text" placeholder="Search for a place">
         <button onclick="searchLocation()">Search</button>
+        <button onclick="draw.deleteAll()">Reset</button>
         <br>
         <input id="numPoints" type="number" min="2" placeholder="Num of trees">
         <button onclick="calculateSplits()">Split</button>
@@ -119,6 +120,10 @@
         function downloadPoints() {
             var data = draw.getAll();
             var points = data.features.filter(feature => feature.geometry.type === 'Point');
+            if(points.length === 0) {
+                alert("No points to download.");
+                return;
+            }
             var geojson = turf.featureCollection(points);
             for (let k in geojson.features) {
                 geojson.features[k].properties = {
