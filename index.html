@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mapbox LineString Splitter</title>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet"
+        href="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.css"
+        type="text/css">
+    <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
+        .sidebar {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1;
+            padding: 10px;
+            background-color: white;
+            border-radius: 3px;
+        }
+
+        body {
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="map"></div>
+    <div class="sidebar">
+        <input id="searchInput" type="text" placeholder="Search for a place">
+        <button onclick="searchLocation()">Search</button>
+        <br>
+        <input id="numPoints" type="number" min="2" placeholder="Num of trees">
+        <button onclick="calculateSplits()">Split</button>
+        <br>
+        <input id="typeOfTree" type="text" placeholder="Add type of trees">
+        <button onclick="downloadPoints()">Download</button>
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoidHVyaW5nbGFic29yZyIsImEiOiJja2xzOHk1NTYxa2d2MnZxbWh0NHQ4cjdiIn0.TrqbL18iVT4_wTpfgg_hRg';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [12.5674, 41.8719], // Centered over Italy
+            zoom: 6
+        });
+
+        // Add drawing controls to the map
+        var draw = new MapboxDraw({
+            displayControlsDefault: false,
+            controls: {
+                line_string: true,
+                trash: true
+            }
+        });
+        map.addControl(draw);
+
+        function calculateSplits() {
+            var data = draw.getAll();
+            console.log(data);
+            if (data.features.length > 0) {
+                var line = data.features[0];
+                var numPoints = parseInt(document.getElementById('numPoints').value);
+                var points = splitLineString(line, numPoints);
+                // Remove previous points to avoid duplication
+                var features = draw.getAll().features.filter(feature => feature.geometry.type !== 'Point');
+                features.push(...points.features);
+                draw.deleteAll();
+                draw.set({ type: 'FeatureCollection', features: features });
+            }
+        }
+
+        function splitLineString(lineString, n) {
+            var points = [];
+            var length = turf.length(lineString, { units: 'kilometers' });
+            var segmentLength = length / (n - 1);
+
+            for (let i = 0; i < n; i++) {
+                var along = segmentLength * i;
+                var point = turf.along(lineString, along, { units: 'kilometers' });
+                points.push(point);
+            }
+
+            return turf.featureCollection(points);
+        }
+
+        function downloadPoints() {
+            var data = draw.getAll();
+            var points = data.features.filter(feature => feature.geometry.type === 'Point');
+            var geojson = turf.featureCollection(points);
+            for (let k in geojson.features) {
+                geojson.features[k].properties = {
+                    "type": document.getElementById('typeOfTree').value
+                }
+            }
+            geojson = JSON.stringify(geojson, null, 4);
+            var blob = new Blob([geojson], { type: "application/json" });
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = document.getElementById('typeOfTree').value + '.geojson';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+
+        function searchLocation() {
+            var query = document.getElementById('searchInput').value;
+            var url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(query)}.json?access_token=${mapboxgl.accessToken}&limit=1`;
+
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.features.length > 0) {
+                        var place = data.features[0];
+                        map.flyTo({
+                            center: place.center,
+                            zoom: 14
+                        });
+                    } else {
+                        alert("No results found.");
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+    </script>
+
+</body>
+
+</html>
