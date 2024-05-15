@@ -11,6 +11,9 @@
         href="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.css"
         type="text/css">
     <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.8/axios.min.js"
+        integrity="sha512-PJa3oQSLWRB7wHZ7GQ/g+qyv6r4mbuhmiDb8BjSFZ8NZ2a42oTtAq5n0ucWAwcQDlikAtkub+tPVCw4np27WCg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <style>
         #map {
@@ -47,7 +50,7 @@
         <input id="numPoints" type="number" min="2" placeholder="Num of trees">
         <button onclick="calculateSplits()">Split</button>
         <br>
-        <input id="typeOfTree" type="text" placeholder="Add type of trees">
+        <select id="typeOfTree" type="text" placeholder="Select of trees"></select>
         <button onclick="downloadPoints()">Download</button>
     </div>
 
@@ -70,6 +73,18 @@
             }
         });
         map.addControl(draw);
+
+        async function getSpecies() {
+            const species = await axios.get("https://api-dev.17tons.tech/species/get")
+            species.data.species.sort((a, b) => a.localeCompare(b));
+            species.data.species.forEach(specie => {
+                var option = document.createElement("option");
+                option.text = specie;
+                document.getElementById('typeOfTree').add(option);
+            });
+        }
+
+        getSpecies()
 
         function calculateSplits() {
             var data = draw.getAll();
