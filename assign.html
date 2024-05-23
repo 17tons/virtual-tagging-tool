@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>17tons Assign Tool</title>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet"
+        href="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.css"
+        type="text/css">
+    <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.8/axios.min.js"
+        integrity="sha512-PJa3oQSLWRB7wHZ7GQ/g+qyv6r4mbuhmiDb8BjSFZ8NZ2a42oTtAq5n0ucWAwcQDlikAtkub+tPVCw4np27WCg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
+        .sidebar {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1;
+            padding: 10px;
+            background-color: white;
+            border-radius: 3px;
+        }
+
+        .logbar {
+            position: absolute;
+            bottom: 5px;
+            left: 5px;
+            z-index: 1;
+            padding: 0 10px;
+            background-color: black;
+            width: 50%;
+            height: 200px;
+            color: greenyellow;
+            overflow: scroll;
+            border-radius: 3px;
+            z-index: 9999999999;
+            font-family: monospace;
+        }
+
+        body {
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="map"></div>
+    <div class="sidebar">
+        <input type="file" id="geojson-upload" accept=".geojson" />
+        <input type="text" id="project-uuid" value="0x7e46b502fe6b5aca3cdc1ff0f36427f671982abf548339051d4b32b3dd8051a2"
+            placeholder="Project UUID" />
+        <input type="text" id="receiver-address" value="0xdb058e72ddf9a01d888ad5790e049c2e0d3289b5"
+            placeholder="Receiver address" />
+        <button onclick="assign()">Assign</button>
+    </div>
+    <div class="logbar">
+        <pre class="logcontent"></pre>
+    </div>
+
+    <script>
+
+        function renderLog(message) {
+            const logcontent = document.querySelector('.logcontent');
+            logcontent.innerHTML += message + '<br>';
+            // Scroll to last row
+            logcontent.scrollTop = logcontent.scrollHeight + 999
+        }
+        mapboxgl.accessToken = 'pk.eyJ1IjoidHVyaW5nbGFic29yZyIsImEiOiJja2xzOHk1NTYxa2d2MnZxbWh0NHQ4cjdiIn0.TrqbL18iVT4_wTpfgg_hRg';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [12.5674, 41.8719], // Centered over Italy
+            zoom: 6
+        });
+
+        var geojsonPoints;
+
+        document.getElementById('geojson-upload').addEventListener('change', function (event) {
+            var file = event.target.files[0];
+            if (file) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    var geojsonData = JSON.parse(e.target.result);
+                    geojsonPoints = geojsonData;
+                    renderLog("Found " + geojsonPoints.features.length + " trees to tag")
+                    if (map.getSource('uploaded-data')) {
+                        map.getSource('uploaded-data').setData(geojsonData);
+                    } else {
+                        map.addSource('uploaded-data', {
+                            type: 'geojson',
+                            data: geojsonData
+                        });
+
+                        map.addLayer({
+                            id: 'uploaded-data-layer',
+                            type: 'circle',
+                            source: 'uploaded-data',
+                            paint: {
+                                'circle-radius': 5,
+                                'circle-color': '#FF0000'
+                            }
+                        });
+                    }
+
+                    // Fit the map to the bounds of the GeoJSON data
+                    var bounds = new mapboxgl.LngLatBounds();
+                    geojsonData.features.forEach(function (feature) {
+                        bounds.extend(feature.geometry.coordinates);
+                    });
+                    map.fitBounds(bounds, { padding: 20 });
+                };
+                reader.readAsText(file);
+            } else {
+                alert('Please select a GeoJSON file.');
+            }
+        });
+
+        async function assign() {
+            const projectUuid = document.getElementById('project-uuid').value;
+            const receiverAddress = document.getElementById('receiver-address').value;
+
+            if (!projectUuid || !receiverAddress) {
+                alert('Please fill in all the fields.');
+                return;
+            }
+
+            if (!geojsonPoints) {
+                alert('Please upload a GeoJSON file.');
+                return;
+            }
+            const admin_session = "0x67ec5683581f7c97b9a224db0e363a06e13b3c780ef2a74d53bfa0e7b755e884fadec02be0d6d6a3bafc5ff65b36f965ba1cf7ad970560128d5e2b5f32b8dbf2884d594437739a12"
+            const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
+            for (let k in geojsonPoints.features) {
+                const point = geojsonPoints.features[k];
+                const checkIfTagged = localStorage.getItem(point.id)
+                if (checkIfTagged === null) {
+                    renderLog("Obtaining tree uuid...")
+                    const obtain = await axios.post("https://api.17tons.tech/tag/obtain", {
+                        project_uuid: projectUuid,
+                        receiver,
+                        session: admin_session
+                    })
+                    if (!obtain.data.error) {
+                        renderLog("Found UUID: " + obtain.data.treeUUID)
+                        const request = {
+                            opid: new Date().getTime(),
+                            treeUUID: obtain.data.treeUUID,
+                            details: {
+                                name: point.properties.type,
+                                geojson: JSON.stringify(point.geometry.coordinates),
+                                status: "LIVE"
+                            },
+                            session: admin_session
+                        }
+                        console.log(request)
+                        renderLog("Tagging with: " + JSON.stringify(request, null, 3))
+                        const tag = await axios.post("https://api.17tons.tech/tag/tree", request)
+                        renderLog(JSON.stringify(tag.data, null, 3))
+                        if (!tag.data.error) {
+                            renderLog("Tree tagged correctly")
+                            localStorage.setItem(point.id, "TAGGED")
+                        }
+                    } else {
+                        renderLog("Can't find tags..")
+                    }
+                } else {
+                    renderLog("Tree already tagged!")
+                }
+            }
+
+        }
+    </script>
+
+</body>
+
+</html>
