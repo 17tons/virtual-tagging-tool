@@ -60,12 +60,15 @@
 
     <div id="map"></div>
     <div class="sidebar">
+        Select a project from Metatons <input type="text" id="project-uuid" value="" placeholder="Project UUID" />
+        <hr>
+        Upload a geojson file with trees<br>
         <input type="file" id="geojson-upload" accept=".geojson" />
-        <input type="text" id="project-uuid" value="0x7e46b502fe6b5aca3cdc1ff0f36427f671982abf548339051d4b32b3dd8051a2"
-            placeholder="Project UUID" />
-        <input type="text" id="receiver-address" value="0xdb058e72ddf9a01d888ad5790e049c2e0d3289b5"
-            placeholder="Receiver address" />
-        <button onclick="assign()">Assign</button>
+        <button onclick="tag()">Tag trees into project</button><br>
+        <hr>
+        Assign all available trees to same owner<br>
+        <input type="text" id="receiver-address" value="" placeholder="Receiver address" />
+        <button onclick="assign()">Assign trees of project</button>
     </div>
     <div class="logbar">
         <pre class="logcontent"></pre>
@@ -75,9 +78,8 @@
 
         function renderLog(message) {
             const logcontent = document.querySelector('.logcontent');
-            logcontent.innerHTML += message + '<br>';
-            // Scroll to last row
-            logcontent.scrollTop = logcontent.scrollHeight + 999
+            const previouscontent = logcontent.innerHTML
+            logcontent.innerHTML = message + '<hr>' + previouscontent;
         }
         mapboxgl.accessToken = 'pk.eyJ1IjoidHVyaW5nbGFic29yZyIsImEiOiJja2xzOHk1NTYxa2d2MnZxbWh0NHQ4cjdiIn0.TrqbL18iVT4_wTpfgg_hRg';
 
@@ -130,11 +132,11 @@
             }
         });
 
-        async function assign() {
+        async function tag() {
             const projectUuid = document.getElementById('project-uuid').value;
             const receiverAddress = document.getElementById('receiver-address').value;
 
-            if (!projectUuid || !receiverAddress) {
+            if (!projectUuid) {
                 alert('Please fill in all the fields.');
                 return;
             }
@@ -173,8 +175,10 @@
                         renderLog(JSON.stringify(tag.data, null, 3))
                         if (!tag.data.error) {
                             renderLog("Tree tagged correctly")
-                            localStorage.setItem(point.id, "TAGGED")
+                        } else {
+                            renderLog(tree.data.message)
                         }
+                        localStorage.setItem(point.id, "TAGGED")
                     } else {
                         renderLog("Can't find tags..")
                     }
@@ -182,7 +186,57 @@
                     renderLog("Tree already tagged!")
                 }
             }
+            let uuids = []
+            const availableTrees = await axios.get("https://api.17tons.tech/explorer/trees/project/" + projectUuid)
+            for (let k in availableTrees.data.trees) {
+                const tree = availableTrees.data.trees[k]
+                if (tree.owner === receiver) {
+                    uuids.push(tree.uuid)
+                }
+            }
+            renderLog("Assigning trees: " + JSON.stringify(uuids, null, 3))
+            const assignTrees = await axios.post("https://api.17tons.tech/projects/assign", {
+                project_uuid: projectUuid,
+                owner: receiverAddress,
+                session: admin_session,
+                trees: uuids
+            })
+            renderLog(JSON.stringify(assignTrees.data, null, 3))
+        }
 
+        async function assign() {
+            const projectUuid = document.getElementById('project-uuid').value;
+            const receiverAddress = document.getElementById('receiver-address').value;
+
+            if (!projectUuid || !receiverAddress) {
+                alert('Please fill in all the fields.');
+                return;
+            }
+
+            const admin_session = "0x67ec5683581f7c97b9a224db0e363a06e13b3c780ef2a74d53bfa0e7b755e884fadec02be0d6d6a3bafc5ff65b36f965ba1cf7ad970560128d5e2b5f32b8dbf2884d594437739a12"
+            const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
+
+            let uuids = []
+            const availableTrees = await axios.get("https://api.17tons.tech/explorer/trees/project/" + projectUuid)
+            for (let k in availableTrees.data.trees) {
+                const tree = availableTrees.data.trees[k]
+                if (tree.owner === receiver) {
+                    uuids.push(tree.treeUUID)
+                }
+            }
+
+            renderLog("Assigning trees: " + JSON.stringify(uuids, null, 3))
+
+            const assignTrees = await axios.post("https://api.17tons.tech/projects/assign", {
+                project_uuid: projectUuid,
+                owner: receiverAddress,
+                trees: uuids
+            }, {
+                headers: {
+                    "Authorization": "Bearer " + admin_session
+                }
+            })
+            renderLog(JSON.stringify(assignTrees.data, null, 3))
         }
     </script>
 
