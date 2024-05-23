@@ -145,7 +145,7 @@
                 alert('Please upload a GeoJSON file.');
                 return;
             }
-            const admin_session = "0x67ec5683581f7c97b9a224db0e363a06e13b3c780ef2a74d53bfa0e7b755e884fadec02be0d6d6a3bafc5ff65b36f965ba1cf7ad970560128d5e2b5f32b8dbf2884d594437739a12"
+            const admin_session = localStorage.getItem("admin_session")
             const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
             for (let k in geojsonPoints.features) {
                 const point = geojsonPoints.features[k];
@@ -213,7 +213,7 @@
                 return;
             }
 
-            const admin_session = "0x67ec5683581f7c97b9a224db0e363a06e13b3c780ef2a74d53bfa0e7b755e884fadec02be0d6d6a3bafc5ff65b36f965ba1cf7ad970560128d5e2b5f32b8dbf2884d594437739a12"
+            const admin_session = localStorage.getItem("admin_session")
             const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
 
             let uuids = []
