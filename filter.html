@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mapbox LineString Splitter</title>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet"
+        href="https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.3.0/mapbox-gl-draw.css"
+        type="text/css">
+    <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.8/axios.min.js"
+        integrity="sha512-PJa3oQSLWRB7wHZ7GQ/g+qyv6r4mbuhmiDb8BjSFZ8NZ2a42oTtAq5n0ucWAwcQDlikAtkub+tPVCw4np27WCg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
+        .sidebar {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1;
+            padding: 10px;
+            background-color: white;
+            border-radius: 3px;
+        }
+
+        body {
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="map"></div>
+    <div class="sidebar">
+        Upload a geojson<br>
+        <input type="file" id="geojson-upload" accept=".geojson" />
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoidHVyaW5nbGFic29yZyIsImEiOiJja2xzOHk1NTYxa2d2MnZxbWh0NHQ4cjdiIn0.TrqbL18iVT4_wTpfgg_hRg';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [12.5674, 41.8719], // Centered over Italy
+            zoom: 13
+        });
+
+        async function getProject() {
+            const project = "0xdaf686dd90bd2d150a6ff841294ca0165e2794a213232939eb5ed971b654d34e"
+            const admin_session = localStorage.getItem("admin_session")
+            const projectDetails = await axios.get("https://api-dev.17tons.tech/projects/get/" + project, {
+                headers: {
+                    Authorization: "Bearer " + admin_session
+                }
+            })
+            const predictions = await axios.get("https://api-dev.17tons.tech/predictions/" + project, {
+                headers: {
+                    Authorization: "Bearer " + admin_session
+                }
+            })
+            console.log("Project details", projectDetails.data.project)
+            console.log("Predictions", predictions.data.predictions)
+            const geolocation = projectDetails.data.project.geolocation
+            // Write polygon to map
+            var polygon = {
+                type: 'Feature',
+                geometry: {
+                    type: 'Polygon',
+                    coordinates: geolocation.coordinates
+                }
+            };
+
+            map.addSource('polygon', {
+                type: 'geojson',
+                data: polygon
+            });
+
+            map.addLayer({
+                id: 'polygon',
+                type: 'fill',
+                source: 'polygon',
+                layout: {},
+                paint: {
+                    'fill-color': '#ff0000',
+                    'fill-opacity': 0.5
+                }
+            });
+
+            map.setCenter(turf.center(geolocation).geometry.coordinates)
+
+            // Write predictions to map
+            const ndvi = await axios.get(predictions.data.predictions[0].files.ndvi)
+            console.log("NDVI", ndvi.data)
+            const features = JSON.parse(ndvi.data.geojson)
+            console.log("FEATURES", features)
+            let filtered = features.features.filter(feature => {
+                var pt = turf.point(feature.geometry.coordinates[0][0]);
+                var poly = turf.polygon(polygon.geometry.coordinates);
+                return turf.booleanPointInPolygon(pt, poly)
+            })
+            console.log("FILTERED", filtered)
+            map.addSource('predictions', {
+                type: 'geojson',
+                data: {
+                    type: 'FeatureCollection',
+                    features: filtered
+                }
+            });
+            map.addLayer({
+                id: 'predictions',
+                type: 'fill',
+                source: 'predictions',
+                layout: {},
+                paint: {
+                    'fill-color': '#00ff00',
+                    'fill-opacity': 0.7
+                }
+            });
+        }
+
+        map.on('load', function () {
+            getProject()
+        });
+    </script>
+
+</body>
+
+</html>

@@ -175,10 +175,10 @@
                         renderLog(JSON.stringify(tag.data, null, 3))
                         if (!tag.data.error) {
                             renderLog("Tree tagged correctly")
+                            localStorage.setItem(point.id, "TAGGED")
                         } else {
-                            renderLog(tree.data.message)
+                            renderLog(tag.data.message)
                         }
-                        localStorage.setItem(point.id, "TAGGED")
                     } else {
                         renderLog("Can't find tags..")
                     }
