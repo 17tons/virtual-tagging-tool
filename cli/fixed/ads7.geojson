@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267738813791762,
+          44.25354845879729
+        ]
+      },
+      "id": 480,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.46",
+        "diameter": "31.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267668116885236,
+          44.25344391130891
+        ]
+      },
+      "id": 481,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.55",
+        "diameter": "32.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267628557544022,
+          44.253548001523136
+        ]
+      },
+      "id": 482,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.92",
+        "diameter": "25.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568872750335,
+          44.253495908102835
+        ]
+      },
+      "id": 483,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.58",
+        "diameter": "34.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267558844173088,
+          44.2535894823502
+        ]
+      },
+      "id": 484,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.68",
+        "diameter": "30.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267681274100408,
+          44.253586578459135
+        ]
+      },
+      "id": 485,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.60",
+        "diameter": "33.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267651848472699,
+          44.253590371732066
+        ]
+      },
+      "id": 486,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.49",
+        "diameter": "30.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267559329122465,
+          44.25354887624448
+        ]
+      },
+      "id": 487,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.13",
+        "diameter": "32.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267733670349891,
+          44.25347898996859
+        ]
+      },
+      "id": 488,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.61",
+        "diameter": "29.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267698920688911,
+          44.25354730214864
+        ]
+      },
+      "id": 489,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.21",
+        "diameter": "32.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267671525633572,
+          44.253587258443645
+        ]
+      },
+      "id": 490,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.45",
+        "diameter": "30.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267546053055582,
+          44.2535644413147
+        ]
+      },
+      "id": 491,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.72",
+        "diameter": "25.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267544823825565,
+          44.25358635631457
+        ]
+      },
+      "id": 492,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.06",
+        "diameter": "30.37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267736272667289,
+          44.25355205651485
+        ]
+      },
+      "id": 493,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.81",
+        "diameter": "28.83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26749623291389,
+          44.25356137640536
+        ]
+      },
+      "id": 494,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.72",
+        "diameter": "30.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267543737488134,
+          44.25356653180608
+        ]
+      },
+      "id": 495,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.36",
+        "diameter": "31.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26766121003931,
+          44.25348482462469
+        ]
+      },
+      "id": 496,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.15",
+        "diameter": "27.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267721081609038,
+          44.25349748302491
+        ]
+      },
+      "id": 497,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.96",
+        "diameter": "26.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267640656920443,
+          44.253512250002025
+        ]
+      },
+      "id": 498,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.83",
+        "diameter": "27.28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267730615980907,
+          44.25351550782799
+        ]
+      },
+      "id": 499,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.91",
+        "diameter": "28.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267726325459426,
+          44.253452491861644
+        ]
+      },
+      "id": 500,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.30",
+        "diameter": "33.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267688853081408,
+          44.25358091490223
+        ]
+      },
+      "id": 501,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.62",
+        "diameter": "26.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267675612168075,
+          44.253511792467
+        ]
+      },
+      "id": 502,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.81",
+        "diameter": "33.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26763786355862,
+          44.253494267837766
+        ]
+      },
+      "id": 503,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.56",
+        "diameter": "33.15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267487205994383,
+          44.253601258050864
+        ]
+      },
+      "id": 504,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.43",
+        "diameter": "29.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267517912623061,
+          44.253519009434925
+        ]
+      },
+      "id": 505,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.38",
+        "diameter": "30.94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26760363672389,
+          44.253607831640345
+        ]
+      },
+      "id": 506,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.76",
+        "diameter": "31.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26755831032304,
+          44.25354318637234
+        ]
+      },
+      "id": 507,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.54",
+        "diameter": "34.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267709644959245,
+          44.25355589877827
+        ]
+      },
+      "id": 508,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.00",
+        "diameter": "27.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267659237863182,
+          44.25355787884728
+        ]
+      },
+      "id": 509,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.64",
+        "diameter": "27.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267649078433882,
+          44.253490198995344
+        ]
+      },
+      "id": 510,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.04",
+        "diameter": "25.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267562424294661,
+          44.253437783427955
+        ]
+      },
+      "id": 511,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.22",
+        "diameter": "28.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267570922804545,
+          44.25355410187307
+        ]
+      },
+      "id": 512,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.07",
+        "diameter": "25.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26772041896702,
+          44.25344415002196
+        ]
+      },
+      "id": 513,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.28",
+        "diameter": "28.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267569620209558,
+          44.25353493162873
+        ]
+      },
+      "id": 514,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.34",
+        "diameter": "34.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26751723683152,
+          44.253514689709114
+        ]
+      },
+      "id": 515,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.85",
+        "diameter": "26.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26767313873288,
+          44.253583872741785
+        ]
+      },
+      "id": 516,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.56",
+        "diameter": "29.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267655969118437,
+          44.25345507821475
+        ]
+      },
+      "id": 517,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.22",
+        "diameter": "29.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267676981497818,
+          44.2535730383538
+        ]
+      },
+      "id": 518,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.64",
+        "diameter": "30.55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267597711468921,
+          44.253555190775955
+        ]
+      },
+      "id": 519,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.93",
+        "diameter": "25.87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267711806107235,
+          44.25353095432293
+        ]
+      },
+      "id": 520,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.62",
+        "diameter": "32.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26758435173469,
+          44.25354465540882
+        ]
+      },
+      "id": 521,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.91",
+        "diameter": "27.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267612603276058,
+          44.25349736457013
+        ]
+      },
+      "id": 522,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.60",
+        "diameter": "30.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267691437273402,
+          44.25351434170073
+        ]
+      },
+      "id": 523,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.39",
+        "diameter": "25.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267569561962896,
+          44.253552987331574
+        ]
+      },
+      "id": 524,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.44",
+        "diameter": "27.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267515419156927,
+          44.253551479797466
+        ]
+      },
+      "id": 525,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.79",
+        "diameter": "30.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267739304379598,
+          44.2534484026109
+        ]
+      },
+      "id": 526,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.18",
+        "diameter": "26.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267722202127915,
+          44.253522783773924
+        ]
+      },
+      "id": 527,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.83",
+        "diameter": "26.49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568879471952,
+          44.2534836328793
+        ]
+      },
+      "id": 528,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.08",
+        "diameter": "34.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267712570770708,
+          44.253432323335346
+        ]
+      },
+      "id": 529,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.01",
+        "diameter": "25.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568851391188,
+          44.253484888101646
+        ]
+      },
+      "id": 530,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.45",
+        "diameter": "31.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267554650531618,
+          44.25360649831022
+        ]
+      },
+      "id": 531,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.59",
+        "diameter": "34.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26773591222823,
+          44.25350648793814
+        ]
+      },
+      "id": 532,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.72",
+        "diameter": "29.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267624451753111,
+          44.253440085462024
+        ]
+      },
+      "id": 533,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.06",
+        "diameter": "27.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26756802190162,
+          44.25354650744455
+        ]
+      },
+      "id": 534,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.21",
+        "diameter": "25.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26753573552587,
+          44.253562041558226
+        ]
+      },
+      "id": 535,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.64",
+        "diameter": "25.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568278069222,
+          44.25349981331885
+        ]
+      },
+      "id": 536,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.79",
+        "diameter": "33.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26769878933497,
+          44.25352403329392
+        ]
+      },
+      "id": 537,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.54",
+        "diameter": "30.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267683383508983,
+          44.25346586506978
+        ]
+      },
+      "id": 538,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.37",
+        "diameter": "30.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267735886464402,
+          44.253529284484436
+        ]
+      },
+      "id": 539,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.91",
+        "diameter": "34.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267672383178336,
+          44.253433421515496
+        ]
+      },
+      "id": 540,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.88",
+        "diameter": "30.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267738103619966,
+          44.253449846794325
+        ]
+      },
+      "id": 541,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.05",
+        "diameter": "32.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267633473047486,
+          44.253577317188835
+        ]
+      },
+      "id": 542,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.31",
+        "diameter": "30.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267539918159802,
+          44.25358531521315
+        ]
+      },
+      "id": 543,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.96",
+        "diameter": "29.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267735319851155,
+          44.253471390111805
+        ]
+      },
+      "id": 544,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.56",
+        "diameter": "29.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267580347588927,
+          44.25345277430349
+        ]
+      },
+      "id": 545,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.74",
+        "diameter": "28.81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267757261126945,
+          44.253484615856614
+        ]
+      },
+      "id": 546,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.61",
+        "diameter": "25.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267751653280078,
+          44.25355764374111
+        ]
+      },
+      "id": 547,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.59",
+        "diameter": "25.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267536494021792,
+          44.253542967280225
+        ]
+      },
+      "id": 548,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.29",
+        "diameter": "26.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267572691123162,
+          44.25351990739808
+        ]
+      },
+      "id": 549,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.41",
+        "diameter": "32.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267627580857502,
+          44.25349461788115
+        ]
+      },
+      "id": 550,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.14",
+        "diameter": "32.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267519736948618,
+          44.25344952787506
+        ]
+      },
+      "id": 551,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.69",
+        "diameter": "25.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267698367285075,
+          44.25343061723477
+        ]
+      },
+      "id": 552,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.33",
+        "diameter": "30.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267492783141762,
+          44.25353508923006
+        ]
+      },
+      "id": 553,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.56",
+        "diameter": "30.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267513971713905,
+          44.25350219922072
+        ]
+      },
+      "id": 554,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.02",
+        "diameter": "28.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267493757831174,
+          44.253453955683874
+        ]
+      },
+      "id": 555,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.39",
+        "diameter": "27.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26761647369874,
+          44.25344041566326
+        ]
+      },
+      "id": 556,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.02",
+        "diameter": "30.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267554012361424,
+          44.25354164133347
+        ]
+      },
+      "id": 557,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.52",
+        "diameter": "30.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267673639259954,
+          44.25358833015045
+        ]
+      },
+      "id": 558,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.69",
+        "diameter": "31.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267707602893399,
+          44.253574720360795
+        ]
+      },
+      "id": 559,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.19",
+        "diameter": "25.80"
+      }
+    }
+  ]
+}

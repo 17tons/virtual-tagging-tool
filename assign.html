@@ -146,7 +146,7 @@
                 return;
             }
             const admin_session = localStorage.getItem("admin_session")
-            const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
+            const receiver = "0xCa04Acc818e295dB5B0d81b2DC37Ac1F4030e857"
             for (let k in geojsonPoints.features) {
                 const point = geojsonPoints.features[k];
                 const checkIfTagged = localStorage.getItem(point.id)
@@ -186,6 +186,7 @@
                     renderLog("Tree already tagged!")
                 }
             }
+            renderLog("Tagging finished")
         }
 
         async function assign() {
@@ -198,7 +199,7 @@
             }
 
             const admin_session = localStorage.getItem("admin_session")
-            const receiver = "0xca04acc818e295db5b0d81b2dc37ac1f4030e857"
+            const receiver = "0xCa04Acc818e295dB5B0d81b2DC37Ac1F4030e857"
 
             let uuids = []
             const availableTrees = await axios.get("https://api.17tons.tech/explorer/trees/project/" + projectUuid)

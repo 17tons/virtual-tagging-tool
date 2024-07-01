@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27571707567652,
+          44.251469731927344
+        ]
+      },
+      "id": 240,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.62",
+        "diameter": "30.87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275647608199131,
+          44.25136600982027
+        ]
+      },
+      "id": 241,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.21",
+        "diameter": "34.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275608729500991,
+          44.251469279719004
+        ]
+      },
+      "id": 242,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.66",
+        "diameter": "31.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275550075247669,
+          44.251417602450424
+        ]
+      },
+      "id": 243,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.42",
+        "diameter": "25.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275540234420745,
+          44.251510431102396
+        ]
+      },
+      "id": 244,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.71",
+        "diameter": "33.69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275660533963132,
+          44.2515075526437
+        ]
+      },
+      "id": 245,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.59",
+        "diameter": "26.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275631621998249,
+          44.251511316123384
+        ]
+      },
+      "id": 246,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.68",
+        "diameter": "32.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275540699593424,
+          44.251470148937024
+        ]
+      },
+      "id": 247,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.97",
+        "diameter": "26.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275712044215645,
+          44.25140079450397
+        ]
+      },
+      "id": 248,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.78",
+        "diameter": "33.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27567787309318,
+          44.251468587725576
+        ]
+      },
+      "id": 249,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.14",
+        "diameter": "27.15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275650956780918,
+          44.25150822679709
+        ]
+      },
+      "id": 250,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.81",
+        "diameter": "33.69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275527671675892,
+          44.25148558043559
+        ]
+      },
+      "id": 251,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.53",
+        "diameter": "33.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275526466219727,
+          44.25150732392419
+        ]
+      },
+      "id": 252,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.51",
+        "diameter": "29.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275714578324143,
+          44.2514733122157
+        ]
+      },
+      "id": 253,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.91",
+        "diameter": "32.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275478668382911,
+          44.25148257267815
+        ]
+      },
+      "id": 254,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.31",
+        "diameter": "25.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275525364044599,
+          44.2514876797833
+        ]
+      },
+      "id": 255,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.44",
+        "diameter": "34.83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275640818590006,
+          44.25140660180625
+        ]
+      },
+      "id": 256,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.67",
+        "diameter": "29.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275699654458537,
+          44.251419158131945
+        ]
+      },
+      "id": 257,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.05",
+        "diameter": "30.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27562062378375,
+          44.25143380790322
+        ]
+      },
+      "id": 258,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.40",
+        "diameter": "33.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275709051346755,
+          44.251437025501204
+        ]
+      },
+      "id": 259,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.93",
+        "diameter": "26.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275704776217573,
+          44.25137453960986
+        ]
+      },
+      "id": 260,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.67",
+        "diameter": "32.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275667982956444,
+          44.251501936099565
+        ]
+      },
+      "id": 261,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.45",
+        "diameter": "28.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275654970093155,
+          44.251433350886465
+        ]
+      },
+      "id": 262,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.49",
+        "diameter": "29.93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275617877320489,
+          44.251415971077556
+        ]
+      },
+      "id": 263,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.55",
+        "diameter": "26.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275469830108262,
+          44.251522119044694
+        ]
+      },
+      "id": 264,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.41",
+        "diameter": "31.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275499993597931,
+          44.25144052418874
+        ]
+      },
+      "id": 265,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.34",
+        "diameter": "34.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275584244093034,
+          44.251528637045155
+        ]
+      },
+      "id": 266,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.67",
+        "diameter": "26.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275539718282646,
+          44.251464496049785
+        ]
+      },
+      "id": 267,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.79",
+        "diameter": "34.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275688414976491,
+          44.25147711805858
+        ]
+      },
+      "id": 268,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.06",
+        "diameter": "30.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275638883915216,
+          44.25147907526103
+        ]
+      },
+      "id": 269,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.77",
+        "diameter": "26.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275628896523562,
+          44.2514119318116
+        ]
+      },
+      "id": 270,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.86",
+        "diameter": "34.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275543742498042,
+          44.25135993060295
+        ]
+      },
+      "id": 271,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.10",
+        "diameter": "25.96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275552085940442,
+          44.25147533945393
+        ]
+      },
+      "id": 272,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "23.25",
+        "diameter": "34.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275699003409219,
+          44.251366244344375
+        ]
+      },
+      "id": 273,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.86",
+        "diameter": "27.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275550806054136,
+          44.25145632301874
+        ]
+      },
+      "id": 274,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.51",
+        "diameter": "29.05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275499341938724,
+          44.25143622998559
+        ]
+      },
+      "id": 275,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.92",
+        "diameter": "33.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275652543864817,
+          44.25150486645346
+        ]
+      },
+      "id": 276,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "21.87",
+        "diameter": "26.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275635675948916,
+          44.25137708692729
+        ]
+      },
+      "id": 277,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "24.79",
+        "diameter": "28.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275656318770388,
+          44.2514941167706
+        ]
+      },
+      "id": 278,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "20.28",
+        "diameter": "32.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275578430092073,
+          44.2514764100728
+        ]
+      },
+      "id": 279,
+      "properties": {
+        "type": "Pinus nigra",
+        "height": "22.71",
+        "diameter": "30.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275690542432542,
+          44.25145236572531
+        ]
+      },
+      "id": 280,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.64",
+        "diameter": "26.55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275565300896353,
+          44.251465953102645
+        ]
+      },
+      "id": 281,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "20.73",
+        "diameter": "30.34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275593055916332,
+          44.25141904661072
+        ]
+      },
+      "id": 282,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.81",
+        "diameter": "34.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275670519945061,
+          44.251435878572366
+        ]
+      },
+      "id": 283,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.28",
+        "diameter": "29.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275550741036001,
+          44.251474241166214
+        ]
+      },
+      "id": 284,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.00",
+        "diameter": "31.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275497537623759,
+          44.25147274287812
+        ]
+      },
+      "id": 285,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.84",
+        "diameter": "32.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275717558169665,
+          44.25137046735699
+        ]
+      },
+      "id": 286,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.87",
+        "diameter": "31.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275700766928749,
+          44.25144425556515
+        ]
+      },
+      "id": 287,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.49",
+        "diameter": "28.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27555009399682,
+          44.251405417362626
+        ]
+      },
+      "id": 288,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.37",
+        "diameter": "32.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275691283721727,
+          44.2513545130306
+        ]
+      },
+      "id": 289,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.72",
+        "diameter": "28.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275550063215965,
+          44.251406664705634
+        ]
+      },
+      "id": 290,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "20.15",
+        "diameter": "30.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275536120024753,
+          44.25152731006568
+        ]
+      },
+      "id": 291,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.54",
+        "diameter": "33.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275714230299478,
+          44.251428092014635
+        ]
+      },
+      "id": 292,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.55",
+        "diameter": "31.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275604697269188,
+          44.25136221319821
+        ]
+      },
+      "id": 293,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.12",
+        "diameter": "33.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275549232386048,
+          44.251467804781825
+        ]
+      },
+      "id": 294,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.07",
+        "diameter": "28.40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275517499610606,
+          44.25148322315566
+        ]
+      },
+      "id": 295,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.96",
+        "diameter": "33.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275549493761622,
+          44.25142147224803
+        ]
+      },
+      "id": 296,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.81",
+        "diameter": "25.26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275677752091585,
+          44.251445495540615
+        ]
+      },
+      "id": 297,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.15",
+        "diameter": "33.05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27566261447812,
+          44.25138778582779
+        ]
+      },
+      "id": 298,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.00",
+        "diameter": "32.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27571419867202,
+          44.25145071550917
+        ]
+      },
+      "id": 299,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.76",
+        "diameter": "31.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275651795585564,
+          44.25135560105828
+        ]
+      },
+      "id": 300,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.15",
+        "diameter": "32.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275716381056291,
+          44.251371897429564
+        ]
+      },
+      "id": 301,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.78",
+        "diameter": "30.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27561355852852,
+          44.251498364611656
+        ]
+      },
+      "id": 302,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.33",
+        "diameter": "25.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275521633431032,
+          44.25150629717056
+        ]
+      },
+      "id": 303,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.95",
+        "diameter": "31.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27571367209392,
+          44.25139325180216
+        ]
+      },
+      "id": 304,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "20.49",
+        "diameter": "34.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275561358425163,
+          44.251374801019345
+        ]
+      },
+      "id": 305,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.28",
+        "diameter": "25.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275735195224458,
+          44.25140640201245
+        ]
+      },
+      "id": 306,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.05",
+        "diameter": "33.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275729663740387,
+          44.25147887005549
+        ]
+      },
+      "id": 307,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.33",
+        "diameter": "28.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275518269419404,
+          44.251464281000864
+        ]
+      },
+      "id": 308,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.42",
+        "diameter": "33.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275553836595545,
+          44.25144140053059
+        ]
+      },
+      "id": 309,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "20.81",
+        "diameter": "26.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275607768336554,
+          44.25141631649046
+        ]
+      },
+      "id": 310,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.10",
+        "diameter": "28.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275501796456382,
+          44.25137158032734
+        ]
+      },
+      "id": 311,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.34",
+        "diameter": "28.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275677333110213,
+          44.25135282079529
+        ]
+      },
+      "id": 312,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.13",
+        "diameter": "28.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275475331752148,
+          44.25145645629132
+        ]
+      },
+      "id": 313,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "21.00",
+        "diameter": "34.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275496136905236,
+          44.251423837503935
+        ]
+      },
+      "id": 314,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.05",
+        "diameter": "29.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275476272267507,
+          44.251375973795916
+        ]
+      },
+      "id": 315,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "23.76",
+        "diameter": "33.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27559686238512,
+          44.251362540338896
+        ]
+      },
+      "id": 316,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.88",
+        "diameter": "31.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275535481028761,
+          44.25146297413052
+        ]
+      },
+      "id": 317,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "22.73",
+        "diameter": "29.68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275653030791677,
+          44.25150929166981
+        ]
+      },
+      "id": 318,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "20.33",
+        "diameter": "26.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275686411575416,
+          44.25149579364221
+        ]
+      },
+      "id": 319,
+      "properties": {
+        "type": "Pinus austriaca",
+        "height": "24.02",
+        "diameter": "31.66"
+      }
+    }
+  ]
+}

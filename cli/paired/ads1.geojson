@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27713100378757,
+          44.24817603417002
+        ]
+      },
+      "id": 0,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.72",
+        "diameter": "20.80",
+        "treeUUID": "0x708444f9323ccf41484132a83e823998562caca4275b29c4f66da2eef6122cf8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277198207331093,
+          44.24827728615274
+        ]
+      },
+      "id": 1,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.15",
+        "diameter": "26.48",
+        "treeUUID": "0x145cc72bd8005bdeda35703bcea98d83bfae4590a79a13c657aa62d5f7bd66c4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277235798824938,
+          44.24817647812338
+        ]
+      },
+      "id": 2,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.09",
+        "diameter": "22.83",
+        "treeUUID": "0x6762bd40b1bbb770cc589c181c505bbd5f1fc5d80ee1ef2800c17cc143c2f507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277292534083236,
+          44.248226930830874
+        ]
+      },
+      "id": 3,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.77",
+        "diameter": "26.99",
+        "treeUUID": "0x467552c3b9605e8625e7c123e2abb0c202e3cdee444dce17dcc86e41c53d376e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277302061895274,
+          44.24813630522161
+        ]
+      },
+      "id": 4,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.59",
+        "diameter": "27.41",
+        "treeUUID": "0x7f87273ca9701fa2da6ce0dcca125a08e3b1b0d45fda274b31fc79ca98645dda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277185692578854,
+          44.24813911429272
+        ]
+      },
+      "id": 5,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.26",
+        "diameter": "25.09",
+        "treeUUID": "0xdab3eee676adb1c94ded8caedcf91b79ec318d5cc1decd4f90542b77bef5da02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27721366770361,
+          44.2481354388734
+        ]
+      },
+      "id": 6,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.28",
+        "diameter": "26.31",
+        "treeUUID": "0x8a2e40420c6bfffa4a0e5467faf6b043ff89ad15cddc4fc97a6acaccb3127222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277301607685827,
+          44.24817562982336
+        ]
+      },
+      "id": 7,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.60",
+        "diameter": "23.85",
+        "treeUUID": "0xd18e9be132ada7dc13c48b675228aa26be31e8ae33d36f75b5e9ee9754167b9b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277135889001748,
+          44.24824332284355
+        ]
+      },
+      "id": 8,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.82",
+        "diameter": "20.70",
+        "treeUUID": "0xd83754ceb103ecb5d5218220d44e4636d04f8390f9415a3cb85f1c49469b1e1e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27716892161463,
+          44.248177153467935
+        ]
+      },
+      "id": 9,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.22",
+        "diameter": "24.53",
+        "treeUUID": "0x311ceb54ed423d6e87bf728c076231757ca77576bab6dea90a6dc6c2cfc1f0c6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277194961131457,
+          44.248138458389526
+        ]
+      },
+      "id": 10,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.97",
+        "diameter": "25.62",
+        "treeUUID": "0x08f4a15cfbdb51a8373fa0141cfb8251b8384f31add66e08d265ade5aa8e5854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277314230966823,
+          44.248160548932404
+        ]
+      },
+      "id": 11,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.17",
+        "diameter": "28.95",
+        "treeUUID": "0x844dda03e30c4f1349253e9a95c19632b8ab0ff5afe4914e419ed1997f6dbf6f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277315382079086,
+          44.248139332583996
+        ]
+      },
+      "id": 12,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.40",
+        "diameter": "23.89",
+        "treeUUID": "0xc408d963991d1fae329f847c3e60324839f3d4372935a65496117edfb1de53e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277133423560663,
+          44.24817254573392
+        ]
+      },
+      "id": 13,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.68",
+        "diameter": "25.02",
+        "treeUUID": "0x61b33eec69e4836253f4891fca574dc7067ad87b22107f418a77fce745c53e8c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277361635892284,
+          44.24816348274895
+        ]
+      },
+      "id": 14,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.82",
+        "diameter": "22.55",
+        "treeUUID": "0xed3b6972eddb1196b69fbc6752e4b2e96a311acf0c542acdd9fafa433f7ab550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27731643013866,
+          44.24815852769422
+        ]
+      },
+      "id": 15,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.11",
+        "diameter": "21.67",
+        "treeUUID": "0x408c56b06ad960870cf485365890376bfc9a6696994137092227d2f26dde9af1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27720477556463,
+          44.24823765926696
+        ]
+      },
+      "id": 16,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.24",
+        "diameter": "22.14",
+        "treeUUID": "0xb52c8861e8abc5718a23c7163373d9eb8e7ea0c88c49138a4e9998f6be1c7a48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277147862482536,
+          44.24822540686434
+        ]
+      },
+      "id": 17,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.23",
+        "diameter": "21.46",
+        "treeUUID": "0xf9280feb5f14f702e994c7be2794e34eba385b741b05cd452263cfed87d5c5ef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277224297606807,
+          44.248211104637214
+        ]
+      },
+      "id": 18,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.04",
+        "diameter": "26.96",
+        "treeUUID": "0x28400395dd567394a6a71d4e6d6e653217c2b121d644ff2d68b0a5c5295ccc19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277138785782535,
+          44.24820795534152
+        ]
+      },
+      "id": 19,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.71",
+        "diameter": "23.69",
+        "treeUUID": "0x7b2388d3a024b87ab690cd04ade18e5ca5b9c4b51c19e152ac7550069fac6434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277142886487324,
+          44.24826897045924
+        ]
+      },
+      "id": 20,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.56",
+        "diameter": "26.05",
+        "treeUUID": "0x962ae82096544b34413acd4f4a176fa3897d59248e4bfeb5120e69829419e4ce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277178489584648,
+          44.24814460087892
+        ]
+      },
+      "id": 21,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.20",
+        "diameter": "29.70",
+        "treeUUID": "0x89cab998cada2497970b5fff27ace8ac12f589f8060ce53cb3f4d57625cf1409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27719107616942,
+          44.2482115506598
+        ]
+      },
+      "id": 22,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.97",
+        "diameter": "24.08",
+        "treeUUID": "0x85fc27c556f2b048b4c9c9daea3fd77f601c9aac099ec8f025355490240096c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277226962643748,
+          44.248228517638275
+        ]
+      },
+      "id": 23,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.75",
+        "diameter": "27.08",
+        "treeUUID": "0x77cd61d3d952f24819e30ccbc9c59138c265a28ae5050a42c6f04ef221d63480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277370159036835,
+          44.24812489476005
+        ]
+      },
+      "id": 24,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.66",
+        "diameter": "29.47",
+        "treeUUID": "0xf37e64d08bad9a5d9b392956ac92cb27a963191ffda98b90e60f238db460cef2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277340981559092,
+          44.248204544565134
+        ]
+      },
+      "id": 25,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.41",
+        "diameter": "22.53",
+        "treeUUID": "0x44e5d6e71509ccc7b5000e001a81e5484040465b5f5dcdf944e543ffa3ddc3fb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277259488258887,
+          44.2481185344635
+        ]
+      },
+      "id": 26,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.60",
+        "diameter": "29.74",
+        "treeUUID": "0x40ea99c4b990fcd3abeb7fe479a7b70cd488f282424cfe4b59d638125e3705f6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27730256413843,
+          44.24818114605769
+        ]
+      },
+      "id": 27,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.04",
+        "diameter": "20.76",
+        "treeUUID": "0x78891c4f2aedcb32b321faea9732bc0a8d68e448635d9385733f7abe86008e89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277158724412308,
+          44.24816882326413
+        ]
+      },
+      "id": 28,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.49",
+        "diameter": "28.13",
+        "treeUUID": "0x4e4a3a25a68be707164633672e0ce11a53fde21e4bdbc54acab61071a6d8454b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277206645755108,
+          44.24816691374343
+        ]
+      },
+      "id": 29,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.22",
+        "diameter": "21.20",
+        "treeUUID": "0xab1cb6cc619e57382fd60e0e57eb0811f9562e9bdff5a6d069a8af20d4942ecf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277216303720937,
+          44.24823245682108
+        ]
+      },
+      "id": 30,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.10",
+        "diameter": "20.90",
+        "treeUUID": "0xcd94c0fc844f66e68c881954ea496a467d5c14e6eccd42fcfa2e4563596e53b7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2772986677066,
+          44.24828321986464
+        ]
+      },
+      "id": 31,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.93",
+        "diameter": "29.56",
+        "treeUUID": "0x85c8184e19dbca6ca9ff7acf37f3bfb9ef631fff57f4f1e13684b99b18400a74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27729059055825,
+          44.24817056433977
+        ]
+      },
+      "id": 32,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.66",
+        "diameter": "23.85",
+        "treeUUID": "0xd53d426019ecf7f1c23b45d30cd3c2b030da42d9d43c2b56b5afb21481add93f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277148486166416,
+          44.24827705815133
+        ]
+      },
+      "id": 33,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.72",
+        "diameter": "21.47",
+        "treeUUID": "0xe60ac941b8e4f82d0928a29e9b309ecff5b6891d3e3b0c5913d7127e9f2bdb33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277291837254502,
+          44.24818912508301
+        ]
+      },
+      "id": 34,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.93",
+        "diameter": "27.43",
+        "treeUUID": "0x2b613ba965c1981613879fa4a96827c25a06401e5e6578cfe6293b55253328f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277341612936828,
+          44.24820873998892
+        ]
+      },
+      "id": 35,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.61",
+        "diameter": "27.21",
+        "treeUUID": "0x0c13cb7ce45e66f7547734aee988b97863befead4c6de242009888c04f91dec3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277193430323315,
+          44.248141737866895
+        ]
+      },
+      "id": 36,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "17.41",
+        "diameter": "21.81",
+        "treeUUID": "0xa81bfe33accee217861539b6ddfa0ecbf02b501046dba096e09266a466d6d726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277209751385746,
+          44.248266473521404
+        ]
+      },
+      "id": 37,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.47",
+        "diameter": "24.02",
+        "treeUUID": "0x6443c97f19a2d23c1a30819e868c20fac765feafc308659761bf3e18ff0a53f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277189770655971,
+          44.24815222734047
+        ]
+      },
+      "id": 38,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.63",
+        "diameter": "24.19",
+        "treeUUID": "0x5f482930a42ccf2cb35bb303a207cc562a8ae3c7941d43b3243ee3f46ddf527a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277265109999435,
+          44.24816951692781
+        ]
+      },
+      "id": 39,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.65",
+        "diameter": "20.50",
+        "treeUUID": "0x7a9bb0d4b65109b72a373dad66da922e992fb3b22d95238086a1f40b4f85be82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27715667106693,
+          44.24819299200762
+        ]
+      },
+      "id": 40,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.44",
+        "diameter": "29.68",
+        "treeUUID": "0xf7feb039d20a382b824adb66a91dae81c530efa014f71a562555b53fe1a141a7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277277812413676,
+          44.24817972541824
+        ]
+      },
+      "id": 41,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "17.74",
+        "diameter": "24.22",
+        "treeUUID": "0x2d4e40b15f6420f22c30ee00cd3a64e0c29abe8aadcf2f0a7d26ea458a0c468b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277250969991966,
+          44.24822551661754
+        ]
+      },
+      "id": 42,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.25",
+        "diameter": "23.24",
+        "treeUUID": "0xebde388ca2823cc20b498407600aba5e7e243e626ee0eb4b148d3f996f9b7f22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277176035023217,
+          44.24820908053704
+        ]
+      },
+      "id": 43,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.57",
+        "diameter": "26.83",
+        "treeUUID": "0xf534afd43295de12a0f1a40571b0b48e7b91ab775da4c5923a9fb3b0959117b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277291894657182,
+          44.248171636193504
+        ]
+      },
+      "id": 44,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.07",
+        "diameter": "24.39",
+        "treeUUID": "0xd6022ccc7a66d7cc3058222906cd82a61cd45d410f7d0c1f8f8b803dcdbf95f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277343366415822,
+          44.248173089533694
+        ]
+      },
+      "id": 45,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.52",
+        "diameter": "25.39",
+        "treeUUID": "0xff054af2e63d0dad6d811b218ad1a7b9c23933f06063df10de5a4f49c8f4a61c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277130545353911,
+          44.24827293289
+        ]
+      },
+      "id": 46,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.95",
+        "diameter": "21.91",
+        "treeUUID": "0x4354494d9edf7c6f7c383b12bc869e895c742f8c20f67f1d060fdc9ebab06679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277146791554854,
+          44.24820090241122
+        ]
+      },
+      "id": 47,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.85",
+        "diameter": "27.47",
+        "treeUUID": "0xcd132c3c3160b7d20565bb09d91015da4b8f0ee16e9a3e520341603ae5fc087f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277292525304441,
+          44.2482388136714
+        ]
+      },
+      "id": 48,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.72",
+        "diameter": "25.28",
+        "treeUUID": "0x940351801e745357e0fce05c047579871b886e566c6650493969d4fc5b24ebad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27715595477417,
+          44.2482885071207
+        ]
+      },
+      "id": 49,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.87",
+        "diameter": "23.30",
+        "treeUUID": "0x391bfe0453f6db406c8017f7705ea0274b51e900bcfc33f6d0ff07850bd46a90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277292559852528,
+          44.24823760034446
+        ]
+      },
+      "id": 50,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "17.81",
+        "diameter": "27.26",
+        "treeUUID": "0x3e9013b853befae552600909af96a702bae7769d4ca4f4b60fa246f425460f92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277306039766444,
+          44.24811982711293
+        ]
+      },
+      "id": 51,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.02",
+        "diameter": "25.76",
+        "treeUUID": "0x427ec5ed01c63c723fcf2d9c3d3c9d97338bc289d65d9088ccec889a9c4cd3f6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277133774436917,
+          44.248216673596055
+        ]
+      },
+      "id": 52,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.01",
+        "diameter": "22.70",
+        "treeUUID": "0xd9914b078ab8b094f0fd6c63bf92baaa72a7f0dd9cc6b8614dcb71c6d972b7bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277239705889544,
+          44.2482809925302
+        ]
+      },
+      "id": 53,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.47",
+        "diameter": "21.58",
+        "treeUUID": "0xbfcb3abe487cb7da1d01862c5faf61ee73adefbd53cc775f2867c059a0b07d68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27729335244926,
+          44.248177919008704
+        ]
+      },
+      "id": 54,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.61",
+        "diameter": "23.86",
+        "treeUUID": "0xbf2a1a62f26b55ef17242c87ef599c76fafe811639ccaf3bf6a6b8dbe9fff9f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277324040816676,
+          44.24816287421194
+        ]
+      },
+      "id": 55,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.84",
+        "diameter": "27.79",
+        "treeUUID": "0x72c4305bdb50ae92443335bc871010244c639872dcb6c85d779ca8e7eab04096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277293103622247,
+          44.248223145388
+        ]
+      },
+      "id": 56,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.99",
+        "diameter": "21.28",
+        "treeUUID": "0x5fdb89b8294e0fa287e7dc49b84eb392c1ba3b12d7ce5f9f042fd8a28309ba0c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27716904269929,
+          44.24819969313297
+        ]
+      },
+      "id": 57,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.98",
+        "diameter": "23.42",
+        "treeUUID": "0xbd93b086c616ee50f374656b82073d63d8a36677dc4c76076b30adcc886eeeae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277183688404422,
+          44.24825602926939
+        ]
+      },
+      "id": 58,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.70",
+        "diameter": "28.64",
+        "treeUUID": "0x0606a146b05d214aacbb4456ba7f5e2eb10bdfce13ca593c89c3c8910e384c11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277133792965097,
+          44.248194596303726
+        ]
+      },
+      "id": 59,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.51",
+        "diameter": "21.51",
+        "treeUUID": "0xe572c32fb8363c0839f132b98cac309840b26e62e69dc11ee1f35c4a3d892570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277194155363462,
+          44.24828744484133
+        ]
+      },
+      "id": 60,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.32",
+        "diameter": "29.98",
+        "treeUUID": "0x8ce9e52825a3336bf0c190fac979257752d1b8ebecf24ad384c963791cb67c8b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277131682280531,
+          44.24827153586784
+        ]
+      },
+      "id": 61,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.61",
+        "diameter": "21.07",
+        "treeUUID": "0x2f1ce27124d1ce6c2cade42fb08ba3fdafd3f2fa1fd02c807aa309b23a702a4d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27723113138516,
+          44.24814808745355
+        ]
+      },
+      "id": 62,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.55",
+        "diameter": "21.73",
+        "treeUUID": "0xa5f76bde00d77f17f45e12df3d50e69ff5f07e7a7490e16d7cc96df00e72fdad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27732005190294,
+          44.248140339498335
+        ]
+      },
+      "id": 63,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.75",
+        "diameter": "21.02",
+        "treeUUID": "0xe56d4dd8f9de7741bc31a09326ee6ca5bf8ee832149e3ac7706c4d43680fbbbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27713429870421,
+          44.248250693038486
+        ]
+      },
+      "id": 64,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "20.78",
+        "diameter": "25.42",
+        "treeUUID": "0xeba7341515d29764af1771e0c7234b086184482f288eecc6f186c5780a2ce32a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277281624279755,
+          44.24826870208039
+        ]
+      },
+      "id": 65,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.58",
+        "diameter": "22.74",
+        "treeUUID": "0x88201d1679e2a5cf3e2e1c69f0271c00f335dc2f74fa05f663ea5856461d81e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277113261237057,
+          44.24823800871135
+        ]
+      },
+      "id": 66,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "22.96",
+        "diameter": "20.84",
+        "treeUUID": "0x87645072d34acbffeb0cd6d7c8aa4b6549a1b9239bfc455ddf43cd57b5ab423a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277118825174757,
+          44.248167118675354
+        ]
+      },
+      "id": 67,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.43",
+        "diameter": "27.57",
+        "treeUUID": "0x2a50905c5043dbefba2c217fbd243504c6d1932bffda7490d933055333d1f02c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277323305463879,
+          44.24818135454897
+        ]
+      },
+      "id": 68,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.65",
+        "diameter": "21.88",
+        "treeUUID": "0xd1fa542461d1be3464fcd18f65cf69a6512be813bcb19f18a0a55e6fbf5b5f47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277288909915594,
+          44.24820368737305
+        ]
+      },
+      "id": 69,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.43",
+        "diameter": "20.87",
+        "treeUUID": "0xad5a25181ddd78187bb34e139197f872b971d0b29258b77db43597917142e55c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277236740165522,
+          44.24822818069567
+        ]
+      },
+      "id": 70,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.60",
+        "diameter": "28.33",
+        "treeUUID": "0x40320f1f18f388348de3a1ec865543f724a616b77dd5e590e6058684c8e6a2fa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277339240590708,
+          44.248271849779144
+        ]
+      },
+      "id": 71,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "24.61",
+        "diameter": "26.32",
+        "treeUUID": "0xf0b9ef986d16ddfab73d5449ee78734f0f751e5ce3472a156afd3469019ab3cc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277169454682333,
+          44.24829015726606
+        ]
+      },
+      "id": 72,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.98",
+        "diameter": "21.70",
+        "treeUUID": "0xbfcad36b5ae59b771fc5fe80d41c7f473aee20c6c27a4a86c5c340948ba4fc88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277364860462097,
+          44.24818898011808
+        ]
+      },
+      "id": 73,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "18.23",
+        "diameter": "26.51",
+        "treeUUID": "0xc814a4cb058729939abcaf9c5c0c74308d1dddd4016b2b043aadf7e22fc3873e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277344711551406,
+          44.24822084028162
+        ]
+      },
+      "id": 74,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "21.59",
+        "diameter": "22.29",
+        "treeUUID": "0x3af9219cc72f701e823f46ccfd26025130aba2764bdeb493f2213be2927abc00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277363932185153,
+          44.248267557803565
+        ]
+      },
+      "id": 75,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.14",
+        "diameter": "21.15",
+        "treeUUID": "0xf9fc6d7debd3713f9e7f91b82f97470322c9b03697bba96893edb29f9ee5a1b8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277247292092005,
+          44.24828067261166
+        ]
+      },
+      "id": 76,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "15.21",
+        "diameter": "28.71",
+        "treeUUID": "0x40e9bd7da31b2f4c338da16627993208594a9ab6e31fca38f94ca366bafe61f0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277306661311467,
+          44.24818263020719
+        ]
+      },
+      "id": 77,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "19.01",
+        "diameter": "20.08",
+        "treeUUID": "0xae9a8963e1be557343318515ccb9879faf51a0fe9687425c9e7b86923439c704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277192956888832,
+          44.24813741827578
+        ]
+      },
+      "id": 78,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "23.63",
+        "diameter": "21.51",
+        "treeUUID": "0x15638717af7bb99f0dc3adfeea7d54e95831923a0283aca6a640e8b228a4a394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277160667801153,
+          44.24815059507737
+        ]
+      },
+      "id": 79,
+      "properties": {
+        "type": "Robinia pseudoacacia",
+        "height": "16.06",
+        "diameter": "20.13",
+        "treeUUID": "0x66a75ab5d5442f4062362713949e64340a5920c6867594e88516eba9541d28a3"
+      }
+    }
+  ]
+}

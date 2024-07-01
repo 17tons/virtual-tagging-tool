@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267738813791762,
+          44.25354845879729
+        ]
+      },
+      "id": 480,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.46",
+        "diameter": "31.58",
+        "treeUUID": "0xb46b55e2ee29aa2a4d7984a78e0c27eaebb9cc1835d67f9c3e06025bc60c4eb6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267668116885236,
+          44.25344391130891
+        ]
+      },
+      "id": 481,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.55",
+        "diameter": "32.21",
+        "treeUUID": "0xc43229ac546aa3d7ba653c3366555a9c77262c9e69b6cd6c2dbd47cf2d4334be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267628557544022,
+          44.253548001523136
+        ]
+      },
+      "id": 482,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.92",
+        "diameter": "25.59",
+        "treeUUID": "0x7fbbd20c80721176c405fec24376cf133350e1359754ba61ec1de6ba47f0011d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568872750335,
+          44.253495908102835
+        ]
+      },
+      "id": 483,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.58",
+        "diameter": "34.85",
+        "treeUUID": "0xb570bf0862743da5d1026314daba88633cec111c8dcd08218c0bfd852b39be49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267558844173088,
+          44.2535894823502
+        ]
+      },
+      "id": 484,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.68",
+        "diameter": "30.30",
+        "treeUUID": "0x6dea6a76e9001e74fab474a187e754c6cf59ae7b049dea4905707e1ff290a05c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267681274100408,
+          44.253586578459135
+        ]
+      },
+      "id": 485,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.60",
+        "diameter": "33.77",
+        "treeUUID": "0x3c4f4faff05fdfdd77cebfd0a875afd87461cd92451f02bea6bad6a9e5892a87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267651848472699,
+          44.253590371732066
+        ]
+      },
+      "id": 486,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.49",
+        "diameter": "30.32",
+        "treeUUID": "0x64a92061c552aef019a6075274f3c5a7c2cc1aea14545dc85104fb50ddf786dc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267559329122465,
+          44.25354887624448
+        ]
+      },
+      "id": 487,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.13",
+        "diameter": "32.09",
+        "treeUUID": "0x44b7de5cf3698678bcb1e494d6f7f32b5a0a90c6dca636f9f3d0fd9420157226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267733670349891,
+          44.25347898996859
+        ]
+      },
+      "id": 488,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.61",
+        "diameter": "29.57",
+        "treeUUID": "0x509a92b00137fba93341a63d04b8587541d22c631a08bba384022644147601d1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267698920688911,
+          44.25354730214864
+        ]
+      },
+      "id": 489,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.21",
+        "diameter": "32.31",
+        "treeUUID": "0xbc6917755787040e69d072f9323ebf86992f9b9d5f8989ab6ba621d8b7a83de2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267671525633572,
+          44.253587258443645
+        ]
+      },
+      "id": 490,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.45",
+        "diameter": "30.21",
+        "treeUUID": "0xa4b13ed028de57211ee34a18b6a87fa4571ac3108249f0fdd7bdbe6343bf9706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267546053055582,
+          44.2535644413147
+        ]
+      },
+      "id": 491,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.72",
+        "diameter": "25.63",
+        "treeUUID": "0x1b5e6568e7c7c3e93eacc39fc0b2c9119faf368532f6ccbd1a04a31a5cb1e013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267544823825565,
+          44.25358635631457
+        ]
+      },
+      "id": 492,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.06",
+        "diameter": "30.37",
+        "treeUUID": "0x1c2459b4e05af6c6113fd9d3fddc00e75765255ef23c3a21c65d4c4b10784622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267736272667289,
+          44.25355205651485
+        ]
+      },
+      "id": 493,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.81",
+        "diameter": "28.83",
+        "treeUUID": "0xd20cecbbbf2a54f3586ac131e60bd9ca4ed056540e1ffe35ac3347c44e5636ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26749623291389,
+          44.25356137640536
+        ]
+      },
+      "id": 494,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.72",
+        "diameter": "30.80",
+        "treeUUID": "0xc25862e8744936080c2d98802bafccc3265a2e8d5acbf39b785f2e69ecdda3e4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267543737488134,
+          44.25356653180608
+        ]
+      },
+      "id": 495,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.36",
+        "diameter": "31.75",
+        "treeUUID": "0xea083e6ce5c3aff29ef10f2c4c76d82458938e3af30d42d4bd0ea4e4ef0dcc58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26766121003931,
+          44.25348482462469
+        ]
+      },
+      "id": 496,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.15",
+        "diameter": "27.22",
+        "treeUUID": "0xbca964861b9ef62ee5fe87f6f8ac8efe5e338676daf788e130d3093f27032235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267721081609038,
+          44.25349748302491
+        ]
+      },
+      "id": 497,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.96",
+        "diameter": "26.90",
+        "treeUUID": "0x2a0dc23f49659f9d21f7a39e7d3290a22b7ff8bc688d25f7a42223ddf2c3ec5d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267640656920443,
+          44.253512250002025
+        ]
+      },
+      "id": 498,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.83",
+        "diameter": "27.28",
+        "treeUUID": "0x6fbf34b9e182842daf93462b795a21cf237930bd45d8e424aea467d64dbf7b4a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267730615980907,
+          44.25351550782799
+        ]
+      },
+      "id": 499,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.91",
+        "diameter": "28.10",
+        "treeUUID": "0x6b28b25c1347ff41a56dbbddd0814fd008c6ab354077144383b755503b8d34ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267726325459426,
+          44.253452491861644
+        ]
+      },
+      "id": 500,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.30",
+        "diameter": "33.65",
+        "treeUUID": "0xa43fe53d3c257faf6fc11bc51bc9c09b2f90d46bac60d925c64fcff715127a9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267688853081408,
+          44.25358091490223
+        ]
+      },
+      "id": 501,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.62",
+        "diameter": "26.38",
+        "treeUUID": "0x0553de1bb1caab667d6917aaf35c5f30d74eab35b65148c7d579eeb2fbfc3b24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267675612168075,
+          44.253511792467
+        ]
+      },
+      "id": 502,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.81",
+        "diameter": "33.23",
+        "treeUUID": "0x78aa54ef6f3ea7e1f04492ce58b9fa4a97dfb5d5201b2ba1f93e8a56cc0574e3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26763786355862,
+          44.253494267837766
+        ]
+      },
+      "id": 503,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.56",
+        "diameter": "33.15",
+        "treeUUID": "0xfdd7dc83c0418beaed3bef6329358883bd0226625aef4b86ccc0dd281313486f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267487205994383,
+          44.253601258050864
+        ]
+      },
+      "id": 504,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.43",
+        "diameter": "29.38",
+        "treeUUID": "0x5e9403b1192127c41cf4f8c512fc727f891c85539773a161b6f9be751260ccbb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267517912623061,
+          44.253519009434925
+        ]
+      },
+      "id": 505,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.38",
+        "diameter": "30.94",
+        "treeUUID": "0x39ef3083fbad4cea2a78208c9509745d67543fe1a4446580efc3b2db91a3686d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26760363672389,
+          44.253607831640345
+        ]
+      },
+      "id": 506,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.76",
+        "diameter": "31.35",
+        "treeUUID": "0x83145f6b7e50128535959882d0d481daaf069ee8df21b6e3db6692413ba98707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26755831032304,
+          44.25354318637234
+        ]
+      },
+      "id": 507,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.54",
+        "diameter": "34.99",
+        "treeUUID": "0x7b44cada6d6b4e8c040dc1b05f7124906cfd0c44155387f6782350798b97a653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267709644959245,
+          44.25355589877827
+        ]
+      },
+      "id": 508,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.00",
+        "diameter": "27.31",
+        "treeUUID": "0xd6b8fe93441b80bd93c784b1d971a96904e09fafef59e4d5981889766d868b22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267659237863182,
+          44.25355787884728
+        ]
+      },
+      "id": 509,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.64",
+        "diameter": "27.03",
+        "treeUUID": "0x53892f832f5177f532b0dfcf809beb45211df713fab731c0cd3deb6146135d66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267649078433882,
+          44.253490198995344
+        ]
+      },
+      "id": 510,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.04",
+        "diameter": "25.98",
+        "treeUUID": "0x6e61274f28a0ea203b414fcf804cd326fd5246ba9ebd0358396e227296833611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267562424294661,
+          44.253437783427955
+        ]
+      },
+      "id": 511,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.22",
+        "diameter": "28.22",
+        "treeUUID": "0xc9bc92168f16c8dc8f4443fe6eeb2c2fdc7690c8300dc772f20d41d24d20a149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267570922804545,
+          44.25355410187307
+        ]
+      },
+      "id": 512,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.07",
+        "diameter": "25.29",
+        "treeUUID": "0xf3ee40acafd9c938361b03b65a47a388b3378597daff2e9e9fc9ec1625c07f3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26772041896702,
+          44.25344415002196
+        ]
+      },
+      "id": 513,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.28",
+        "diameter": "28.78",
+        "treeUUID": "0x653365ff3b3b5354d2f163f0b1250283efeccd4121078ab660817ca47a270a03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267569620209558,
+          44.25353493162873
+        ]
+      },
+      "id": 514,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.34",
+        "diameter": "34.47",
+        "treeUUID": "0xe2399d94f52724a06102e69c112235cf8c7b7484b1b93a33b36d61bbe69e19dd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26751723683152,
+          44.253514689709114
+        ]
+      },
+      "id": 515,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.85",
+        "diameter": "26.31",
+        "treeUUID": "0x6e857c6e4ed26fd1930e43b7a175622ae0fbd52f41e78902b973133642f55992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26767313873288,
+          44.253583872741785
+        ]
+      },
+      "id": 516,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.56",
+        "diameter": "29.10",
+        "treeUUID": "0x80d7216429eb69fbb498ef66546be6e1a922207d16fb9057694de61830dce18a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267655969118437,
+          44.25345507821475
+        ]
+      },
+      "id": 517,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.22",
+        "diameter": "29.14",
+        "treeUUID": "0xfbb5bc422ad156ceefd9fec808d41bce4d33d385aad40f7de4418ca448eb821a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267676981497818,
+          44.2535730383538
+        ]
+      },
+      "id": 518,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.64",
+        "diameter": "30.55",
+        "treeUUID": "0xa10fd0f212e06c1a86edfee27fa56acbe0066b22da3f57361e56df65bb7952c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267597711468921,
+          44.253555190775955
+        ]
+      },
+      "id": 519,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.93",
+        "diameter": "25.87",
+        "treeUUID": "0xb240afcdea6813609aa1ff95597de8bea079b6c43047c313dde1b932cec71bf4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267711806107235,
+          44.25353095432293
+        ]
+      },
+      "id": 520,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.62",
+        "diameter": "32.52",
+        "treeUUID": "0x2b52843e7f9c0fe83d67bc4b20e1e66c021d90299f0510862d4ed55f06f16a01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26758435173469,
+          44.25354465540882
+        ]
+      },
+      "id": 521,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.91",
+        "diameter": "27.61",
+        "treeUUID": "0xe2b9336a26ac3462401a8f8d22e2fa7cd246e2783a965cf313f2b3a775615bf1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267612603276058,
+          44.25349736457013
+        ]
+      },
+      "id": 522,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.60",
+        "diameter": "30.54",
+        "treeUUID": "0x622612f38fe07cb895fcfe81ac8f7b4efb317fdcf8e7ca10f1d4a66ea5d069d1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267691437273402,
+          44.25351434170073
+        ]
+      },
+      "id": 523,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.39",
+        "diameter": "25.70",
+        "treeUUID": "0x4f1a8b5e569ac4245b0740ddd297cd3eb5fb8ee8e9ab408390461ea575529011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267569561962896,
+          44.253552987331574
+        ]
+      },
+      "id": 524,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.44",
+        "diameter": "27.88",
+        "treeUUID": "0x40a2a79495df9cced05e69df9b5dbee708682f35bd3b54d05f2778f5b3f3f7a5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267515419156927,
+          44.253551479797466
+        ]
+      },
+      "id": 525,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.79",
+        "diameter": "30.13",
+        "treeUUID": "0xf6f7b7479cb779340c77506b3ea1f58706de3f543a0ce2e420fc8c0cb123e249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267739304379598,
+          44.2534484026109
+        ]
+      },
+      "id": 526,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.18",
+        "diameter": "26.77",
+        "treeUUID": "0xc211125fb95af34b40c827099533ed8b2ec81c782cc80d5093f2c64122df9529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267722202127915,
+          44.253522783773924
+        ]
+      },
+      "id": 527,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.83",
+        "diameter": "26.49",
+        "treeUUID": "0x1231f5a2a71ab72f51f0c1e39682d8f644bcc4b16f2c67a250148c45483034b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568879471952,
+          44.2534836328793
+        ]
+      },
+      "id": 528,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.08",
+        "diameter": "34.50",
+        "treeUUID": "0x84bdf9e6b8178428ca2fcd5752425dee7e777b6cbb77cc83ed409726670d5c4c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267712570770708,
+          44.253432323335346
+        ]
+      },
+      "id": 529,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.01",
+        "diameter": "25.64",
+        "treeUUID": "0x582580ac4815ac5ad66d2736ec969b91ea21e387c42caa0489d42ff98790e73e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568851391188,
+          44.253484888101646
+        ]
+      },
+      "id": 530,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.45",
+        "diameter": "31.14",
+        "treeUUID": "0x4d37a8100f06128ee80df76e8fd3bb1a956b6382696b13d487bba9159a12f0ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267554650531618,
+          44.25360649831022
+        ]
+      },
+      "id": 531,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.59",
+        "diameter": "34.50",
+        "treeUUID": "0x885b9fe5b320fd98bea4d5283391c5ea24d6a5ab695e1e6f76d4fdf014e6ba25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26773591222823,
+          44.25350648793814
+        ]
+      },
+      "id": 532,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.72",
+        "diameter": "29.33",
+        "treeUUID": "0xa3f965743a5c34616116bd4f75e6194927e7597b0ce23b267a871bf21c34277a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267624451753111,
+          44.253440085462024
+        ]
+      },
+      "id": 533,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.06",
+        "diameter": "27.63",
+        "treeUUID": "0xc574e4244d9d1ee4cca667d541bfae9e0dd3d455a1712823082fc3cb5422d426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26756802190162,
+          44.25354650744455
+        ]
+      },
+      "id": 534,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.21",
+        "diameter": "25.88",
+        "treeUUID": "0xa66ec00401c15ee4d0c9775dee8e98df66126d01c9d0cad91e462cd5d5c59487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26753573552587,
+          44.253562041558226
+        ]
+      },
+      "id": 535,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.64",
+        "diameter": "25.11",
+        "treeUUID": "0x9715f436bbec53d1805a34930f39251b8cb22df3965d6219f7adb43175b7c59b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267568278069222,
+          44.25349981331885
+        ]
+      },
+      "id": 536,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.79",
+        "diameter": "33.53",
+        "treeUUID": "0xe6249e655babd4da22731a58b330a08e522a4942430439d48c04ddab9476fdce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26769878933497,
+          44.25352403329392
+        ]
+      },
+      "id": 537,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.54",
+        "diameter": "30.52",
+        "treeUUID": "0xb62951373b0fe6f070eff958d5060ddda6b789e647eff1b8e91a85e57ad8bab9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267683383508983,
+          44.25346586506978
+        ]
+      },
+      "id": 538,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.37",
+        "diameter": "30.24",
+        "treeUUID": "0x8e6250a457c3c4a037465d7ce507c94c6d2f616a16aa97f0c26ba5784159f825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267735886464402,
+          44.253529284484436
+        ]
+      },
+      "id": 539,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.91",
+        "diameter": "34.01",
+        "treeUUID": "0xc328aa476ac44150d621fb4c9fe91db88cca2520d568326b9201d3767cd0eb80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267672383178336,
+          44.253433421515496
+        ]
+      },
+      "id": 540,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.88",
+        "diameter": "30.78",
+        "treeUUID": "0x9af89bc307c095b8357543365a4a26bc8e4206c57157597f92a3fe0d332334cc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267738103619966,
+          44.253449846794325
+        ]
+      },
+      "id": 541,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.05",
+        "diameter": "32.99",
+        "treeUUID": "0x751e766dffb48638aae49b64995f5f1b49b4f6248151bbecebf3565a15331dc0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267633473047486,
+          44.253577317188835
+        ]
+      },
+      "id": 542,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.31",
+        "diameter": "30.22",
+        "treeUUID": "0xd89cabe4a46fd93e9492014ceba9a1de0bc13e1ffbea83c850ef5cc7c96614bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267539918159802,
+          44.25358531521315
+        ]
+      },
+      "id": 543,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.96",
+        "diameter": "29.32",
+        "treeUUID": "0x9b60eb14d71777de2c0de21731ea25bcac9ee50689b5cb70ef431147c2773243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267735319851155,
+          44.253471390111805
+        ]
+      },
+      "id": 544,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "15.56",
+        "diameter": "29.57",
+        "treeUUID": "0x850bb020b88409cb87545f08bc59a8a390694c5f1321cd92ee60862f44bec5d5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267580347588927,
+          44.25345277430349
+        ]
+      },
+      "id": 545,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.74",
+        "diameter": "28.81",
+        "treeUUID": "0x438091f80ec3126b2014916b29c4aa2fe492db2ed6945431fca44785a84be456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267757261126945,
+          44.253484615856614
+        ]
+      },
+      "id": 546,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.61",
+        "diameter": "25.65",
+        "treeUUID": "0xd706ecb5ec367516774cf5ee2d7f03f6d4e8f2b8cafe92ef8a1e3fa469fc7777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267751653280078,
+          44.25355764374111
+        ]
+      },
+      "id": 547,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.59",
+        "diameter": "25.19",
+        "treeUUID": "0xc85c6a6a3db0aca14979d6c51fef1ca4609bb14ef6f6011e63b766266a18b24b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267536494021792,
+          44.253542967280225
+        ]
+      },
+      "id": 548,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.29",
+        "diameter": "26.86",
+        "treeUUID": "0x7f80de6333fc8fa7a51637a470bd4dd211f76837ac90e9b50a21ffb8f7e0e04f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267572691123162,
+          44.25351990739808
+        ]
+      },
+      "id": 549,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.41",
+        "diameter": "32.72",
+        "treeUUID": "0xe283811207f221c426e112790cfd8f2bdc5e1bacd082d7e9e21fa54e47c50683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267627580857502,
+          44.25349461788115
+        ]
+      },
+      "id": 550,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.14",
+        "diameter": "32.07",
+        "treeUUID": "0x23b0a654cfcbc0e7bc2e214e58a26ac3c8da0a543e9ff85f07e721538ed4f6f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267519736948618,
+          44.25344952787506
+        ]
+      },
+      "id": 551,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.69",
+        "diameter": "25.07",
+        "treeUUID": "0x269748c1b2ce8dfbba36569a2647fec504f476238b7cc36e497d4dcf86f50e7f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267698367285075,
+          44.25343061723477
+        ]
+      },
+      "id": 552,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.33",
+        "diameter": "30.17",
+        "treeUUID": "0x85e1ac3e0bcd0cf47100001e29cabf25c377e7d72e26a9c4421fef18a125c0e7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267492783141762,
+          44.25353508923006
+        ]
+      },
+      "id": 553,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.56",
+        "diameter": "30.45",
+        "treeUUID": "0x4256032c599b25841a7178f3119bb9738de3bc6454ae897af28d9f70b6e63fee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267513971713905,
+          44.25350219922072
+        ]
+      },
+      "id": 554,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "18.02",
+        "diameter": "28.60",
+        "treeUUID": "0x206812989efba9f78dbaf622bee9836dea34303cc136e9d9bb793e00fd8b4169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267493757831174,
+          44.253453955683874
+        ]
+      },
+      "id": 555,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.39",
+        "diameter": "27.36",
+        "treeUUID": "0xf14cb1cee9e9c9710ab700e4a75428776f227592633004fce3acfc882f6b2d97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26761647369874,
+          44.25344041566326
+        ]
+      },
+      "id": 556,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.02",
+        "diameter": "30.65",
+        "treeUUID": "0x6ed23bb5a156e7bf087bd7978482e3060475f65bd33d3b97280856cf8b252621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267554012361424,
+          44.25354164133347
+        ]
+      },
+      "id": 557,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "17.52",
+        "diameter": "30.19",
+        "treeUUID": "0x3da379e3721fb7807094fe6fa9988398d2d590e8e30a097eacfe5b4ed4b8d17c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267673639259954,
+          44.25358833015045
+        ]
+      },
+      "id": 558,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "16.69",
+        "diameter": "31.89",
+        "treeUUID": "0x24d9c96904627368ce4adcb46ac215d176c648aa384c3e7e5d9a901237af01f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267707602893399,
+          44.253574720360795
+        ]
+      },
+      "id": 559,
+      "properties": {
+        "type": "Quercus cerris",
+        "height": "19.19",
+        "diameter": "25.80",
+        "treeUUID": "0x362655070af50310852133ce6935894c7499c445dcff02561d900c95cc032e30"
+      }
+    }
+  ]
+}

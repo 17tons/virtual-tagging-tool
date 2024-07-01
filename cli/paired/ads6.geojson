@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267006453237698,
+          44.25216021370206
+        ]
+      },
+      "id": 400,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.23",
+        "diameter": "32.81",
+        "treeUUID": "0x2d0414f19683785797fa41e2bf5cded9745c533b30b984f9e1cea5f5406694c0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266933652560994,
+          44.25205016503301
+        ]
+      },
+      "id": 401,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.25",
+        "diameter": "36.72",
+        "treeUUID": "0xfce9edf2b43c20e1e372a5b8b972ce5f56bf739c5c03c44f4e94cfe12a305fb6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266892924735776,
+          44.25215973555714
+        ]
+      },
+      "id": 402,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.13",
+        "diameter": "38.97",
+        "treeUUID": "0x30fbe39e21592efbb59714fdfd390ee33a22d02514c0b805d31b3e62e76e2a3f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266831464996823,
+          44.25210489716212
+        ]
+      },
+      "id": 403,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.79",
+        "diameter": "39.11",
+        "treeUUID": "0x5bd373abd042198f3acd3361beeeaee5cb2f49a90a7e2909eaa961c5abf782d2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266821141511697,
+          44.252203392611605
+        ]
+      },
+      "id": 404,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.33",
+        "diameter": "32.69",
+        "treeUUID": "0x8dc1745d7111cb99d2c2a441767941848c39fcf0bf5ecdd7a6fc050ecc9f1f0d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266947201391865,
+          44.2522003383754
+        ]
+      },
+      "id": 405,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.07",
+        "diameter": "32.25",
+        "treeUUID": "0xbb7dafc94ad9809c229936ca011d48d70681db42b090f082ba91ea921c1a4dcd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266916897366388,
+          44.25220433482656
+        ]
+      },
+      "id": 406,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.11",
+        "diameter": "39.43",
+        "treeUUID": "0x5c04dab255a087d43911e1facdcbf3667d22a891f8b65fa4a519c1e40e165092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26682163136104,
+          44.252160655897875
+        ]
+      },
+      "id": 407,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.69",
+        "diameter": "39.80",
+        "treeUUID": "0x9e0f637545c3e6d7a8f6a55ac3f7accd0ce7d7366d655b40d1f9d78db794e633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267001148355645,
+          44.25208708991604
+        ]
+      },
+      "id": 408,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.79",
+        "diameter": "34.17",
+        "treeUUID": "0xd434e404321d57479bba2a3c27eb32da0f892700550d85af0af3d31229997d8b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266965371143643,
+          44.25215899923815
+        ]
+      },
+      "id": 409,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.88",
+        "diameter": "38.29",
+        "treeUUID": "0xacafbbffb9ba84d56c28043c8830dd7aef9cac4317c2c908ac27b01c4f424fb8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266937169781135,
+          44.25220105708102
+        ]
+      },
+      "id": 410,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.27",
+        "diameter": "39.12",
+        "treeUUID": "0xc358c02c919cf3ea1a5b1e9161a663c9d5d8fcb5ce5ad1045cfab831ce54de6e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266807956322461,
+          44.2521770410795
+        ]
+      },
+      "id": 411,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.26",
+        "diameter": "39.33",
+        "treeUUID": "0x13e5b46d26dbd4f11505209d7cb26352218670ab69708321ec824f040b98c8cf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266806711632283,
+          44.25220010178872
+        ]
+      },
+      "id": 412,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.60",
+        "diameter": "36.59",
+        "treeUUID": "0x941f55a6eda589d460277d44a6ddab8739eccfe75099dbcd0690979e5cc3c149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267003828657897,
+          44.25216400592212
+        ]
+      },
+      "id": 413,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.52",
+        "diameter": "32.98",
+        "treeUUID": "0xf18b888122f55ddb34da15efd9daf12bf226355660c8bc8502143e2f7df0eef3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266756566333106,
+          44.2521738798387
+        ]
+      },
+      "id": 414,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.12",
+        "diameter": "33.51",
+        "treeUUID": "0x3e410d7bfbf83fd3c238c56edaa3604b3277b595d4c16561a541c5da5647f5e8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26680556949287,
+          44.25217924414778
+        ]
+      },
+      "id": 415,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.45",
+        "diameter": "30.09",
+        "treeUUID": "0x467afedf6040eb3b26814f743591f5811faa0129d873aac7c7d2bd019065e3c0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266926536717788,
+          44.25209323410098
+        ]
+      },
+      "id": 416,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.75",
+        "diameter": "31.42",
+        "treeUUID": "0x1ec27231b135ff214288681bb7f2c78f60c39eafac47871ea5556953e7a7311c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266988186549854,
+          44.252106556209704
+        ]
+      },
+      "id": 417,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.29",
+        "diameter": "31.96",
+        "treeUUID": "0x61156a6f396e03a1de60f030acb65fe959124a03d5c910ea39e4eafe83339ef3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266905384047373,
+          44.25212209991325
+        ]
+      },
+      "id": 418,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.59",
+        "diameter": "32.32",
+        "treeUUID": "0xbc98a9bb201fd836cb5cacb66ef36c209ae3a5a62ac8c031a8fbcda2e815eb46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266998031225796,
+          44.25212551578252
+        ]
+      },
+      "id": 419,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.88",
+        "diameter": "33.27",
+        "treeUUID": "0x08596f2e064b80fdd8d70c185416e590fa816815fd420ec8b63a2d8c53d2a486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266993573090986,
+          44.252059203720435
+        ]
+      },
+      "id": 420,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.38",
+        "diameter": "31.14",
+        "treeUUID": "0x207cb75479fefac13745f4f09ba67d17401ffbae69aa20e5240627ded53c54c7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266955006603181,
+          44.252194378190055
+        ]
+      },
+      "id": 421,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.89",
+        "diameter": "37.52",
+        "treeUUID": "0x3b141c58eabdea5c0507eb0232b33210e585be073532856511e645a117a61947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266941379251788,
+          44.252121613118625
+        ]
+      },
+      "id": 422,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.64",
+        "diameter": "31.15",
+        "treeUUID": "0x40a4ea8c5855f5c6a790151895a71c38ab1a7627ca5540ab9474b2917a1e256f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266902499019436,
+          44.25210317200355
+        ]
+      },
+      "id": 423,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.67",
+        "diameter": "35.67",
+        "treeUUID": "0xebf16b0428370405e7c191610e09c85a51dd303811871d30951385dac0bf552a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266747370440962,
+          44.25221579575272
+        ]
+      },
+      "id": 424,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "22.55",
+        "diameter": "39.27",
+        "treeUUID": "0xff6115e11a7b282b90d9722e833653116c92dbd118ac6fcfa4dd5aa0bdf0944e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266778985497098,
+          44.252129223513464
+        ]
+      },
+      "id": 425,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.03",
+        "diameter": "33.49",
+        "treeUUID": "0x6382ef1f544d157d03e6f80fa84cc9612c2dbf3e21e9e148a43f49c8d878c63b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26686725998282,
+          44.25222270853987
+        ]
+      },
+      "id": 426,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.90",
+        "diameter": "37.43",
+        "treeUUID": "0x92c98be4d6ed632258222c6763ab03a4dded9844fd2c45d62a3252c6d6b5ea66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266820582150107,
+          44.25215466978254
+        ]
+      },
+      "id": 427,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.42",
+        "diameter": "32.89",
+        "treeUUID": "0x49c4314488ac7f7ccdf437bd6fa1865eb0894a2b56462b69c970e907ce81c4e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266976422692439,
+          44.25216805033401
+        ]
+      },
+      "id": 428,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.23",
+        "diameter": "31.04",
+        "treeUUID": "0xb2f568c3615568dea5f255a06accc464dfa8346e66f1f6d1141bfd601bdba636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266924512488929,
+          44.252170125143024
+        ]
+      },
+      "id": 429,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "24.71",
+        "diameter": "32.02",
+        "treeUUID": "0xb93b267d8d5d22d626e2724a665ab9ccd955cd12b248388e242c464b2fc3636a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266914050616682,
+          44.25209888569767
+        ]
+      },
+      "id": 430,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "22.29",
+        "diameter": "31.15",
+        "treeUUID": "0x51e7009c0c6130c8a8c98cdccb82f503c6e967600fe861db000be65b0d1a5b44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266824824972003,
+          44.25204371307316
+        ]
+      },
+      "id": 431,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "22.04",
+        "diameter": "35.36",
+        "treeUUID": "0x6b2948e8edf7760230cac4fbfc811fc3b94e6e7b0e31551baa29a289ae2a8b05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266833565814203,
+          44.25216615994594
+        ]
+      },
+      "id": 432,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.61",
+        "diameter": "31.96",
+        "treeUUID": "0xada1e52633d1d076f59c12852f86922094cc6a8085020022a82bae0392a09c36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266987515305587,
+          44.252050411855826
+        ]
+      },
+      "id": 433,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.34",
+        "diameter": "39.85",
+        "treeUUID": "0xed362ea762b2bac558130a92346c74a2a5ab6410c454a8bf59ddce33f8ad8983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266832222933617,
+          44.25214598357455
+        ]
+      },
+      "id": 434,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.23",
+        "diameter": "32.93",
+        "treeUUID": "0x6b2bac44eac24d51afed0b2b86cff1328cea4066a38a1d23439a994acfa84985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26677830011816,
+          44.252124659495564
+        ]
+      },
+      "id": 435,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.70",
+        "diameter": "33.78",
+        "treeUUID": "0x5d88af43b2730fb8d797aa8182fd7b24c4c643354969b59ad9bc992fe39419b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266938823860166,
+          44.252197489549154
+        ]
+      },
+      "id": 436,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "20.43",
+        "diameter": "37.92",
+        "treeUUID": "0xb2680d645ee896f77eeebad9a1759b69e1db6104924d048b6acd81614f637517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266921142030741,
+          44.252061921493265
+        ]
+      },
+      "id": 437,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "21.18",
+        "diameter": "39.03",
+        "treeUUID": "0x54e131285e54fd51ea5310e55a16d09156d029178ea3186f6ffb163e61689db6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266942783434,
+          44.25218608749269
+        ]
+      },
+      "id": 438,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "23.32",
+        "diameter": "31.54",
+        "treeUUID": "0xb27d65b9f221b89b430fc6de654d4205fb98420fb79a930bcec93e8f25a1338a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266861162083023,
+          44.25216729745425
+        ]
+      },
+      "id": 439,
+      "properties": {
+        "type": "Quercus robur",
+        "height": "22.26",
+        "diameter": "38.79",
+        "treeUUID": "0x3ffc59e0213efcac6c82e81f07ffb33fd4fdc58cefbbb571ece215edd379b3f0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266978647737293,
+          44.252141784235704
+        ]
+      },
+      "id": 440,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.66",
+        "diameter": "34.92",
+        "treeUUID": "0x10a8db787f7eb49e03fc9e167ee3781b5093257743b1a98ec506bac0acee382d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266847405511683,
+          44.25215621038044
+        ]
+      },
+      "id": 441,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.72",
+        "diameter": "30.88",
+        "treeUUID": "0xae7f38ebd506b9b8169257acc174916a434464f58a9c5e7e2c520ae5a0dd455a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266876489335639,
+          44.25210643244844
+        ]
+      },
+      "id": 442,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.97",
+        "diameter": "35.03",
+        "treeUUID": "0x63de0de3f4fc25c945abd4ddf505c9cf6739cacb2ea7ce75112c98208d72e6a5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266957664020222,
+          44.25212429849747
+        ]
+      },
+      "id": 443,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.04",
+        "diameter": "31.49",
+        "treeUUID": "0x354346c6dc8925e7aa9d22304dfa15f1049133bdcabf1db9510bc4f393cf0ee8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266832154961776,
+          44.25216500027091
+        ]
+      },
+      "id": 444,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.82",
+        "diameter": "35.72",
+        "treeUUID": "0x4574b938f55bf8f423c459e94e02893f24f55aea49df4c934fea5f4524f2ddc3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266776410140483,
+          44.252163403306206
+        ]
+      },
+      "id": 445,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.07",
+        "diameter": "30.22",
+        "treeUUID": "0xf2e1d451e0f42a591d1eaabbb97cb33ddb73baad1a6c2f352c99d2b76693b240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267006966423793,
+          44.25205488510505
+        ]
+      },
+      "id": 446,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.08",
+        "diameter": "37.87",
+        "treeUUID": "0x5ecd76f643c94e6176d4cb24812ac253381c3dda4b2c8a5b003730fd5c15da3e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266989351934331,
+          44.252133185649186
+        ]
+      },
+      "id": 447,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.44",
+        "diameter": "36.14",
+        "treeUUID": "0x44cd1937354cf9e2ad512c2354fdc7312244df9c4d3f744d59e60fb536836137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266831473695838,
+          44.252091976690615
+        ]
+      },
+      "id": 448,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.67",
+        "diameter": "34.29",
+        "treeUUID": "0x6ebc1771a0ff5bf61b77f4c8738e0d0fc004d7b0137a0f7fae08d22aec21f28f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266979428533418,
+          44.25203796481143
+        ]
+      },
+      "id": 449,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.59",
+        "diameter": "33.78",
+        "treeUUID": "0x572007b9aad041a3f154c763eaa8c6c91662e3b6a13c592b871b2bd97a800d66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266831444479166,
+          44.25209329875038
+        ]
+      },
+      "id": 450,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.87",
+        "diameter": "32.82",
+        "treeUUID": "0x3a0bc7ded1225e106026c055f0d3131326c6a51dfbaf794281f1db45662e3cbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266816821170243,
+          44.252221306907664
+        ]
+      },
+      "id": 451,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.36",
+        "diameter": "32.49",
+        "treeUUID": "0xf87f97e96629bece8c33fafc29403521e5b6d23b884d7309cbc4b37e07e30bc0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26700345170486,
+          44.25211604240327
+        ]
+      },
+      "id": 452,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.47",
+        "diameter": "30.99",
+        "treeUUID": "0x16ecb7b2a0f7ff9400539a440fc0d54d6c70a7c83db52d5aa5e8b63a69287554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266888692150259,
+          44.252046134353286
+        ]
+      },
+      "id": 453,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.96",
+        "diameter": "34.03",
+        "treeUUID": "0xae251bc686d48cfcb59c8ce0eadafe9834f32ca2d1d851dafb49370523965f0e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266830575664626,
+          44.25215816462616
+        ]
+      },
+      "id": 454,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.41",
+        "diameter": "33.52",
+        "treeUUID": "0xf84662b76f076271d7ea5d71c77cafce0226439f683da3095c7b470e500dd960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26679730350508,
+          44.25217453943584
+        ]
+      },
+      "id": 455,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.12",
+        "diameter": "34.57",
+        "treeUUID": "0x6693204208e10f2f5e12f6838265e41d97c9e8af54cc1766c87ed0d5f5f849c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266830845461707,
+          44.252109010640474
+        ]
+      },
+      "id": 456,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.77",
+        "diameter": "31.13",
+        "treeUUID": "0x51237c1ceccf859d21f17e8595ec2ee845bdd49cd2619213daf7f2c86db5bfd1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266965236681544,
+          44.25213450491206
+        ]
+      },
+      "id": 457,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.27",
+        "diameter": "31.85",
+        "treeUUID": "0xff991922772711e8e678ddd15c92a9660eada7c3c7242cb8662b5a8f149de653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266949374214477,
+          44.252073275641365
+        ]
+      },
+      "id": 458,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.11",
+        "diameter": "35.20",
+        "treeUUID": "0x08ac00ff5d9b68e65bd4ab5ffe45b9b87fefd4f66a3dcf96c19179dcea7e9b80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267003427780041,
+          44.252140036112316
+        ]
+      },
+      "id": 459,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.09",
+        "diameter": "34.78",
+        "treeUUID": "0xf64a9b5e1c53c007b252464d963b6b4f1ea2236ca7b42009011c66e30620b6d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266938046853307,
+          44.252039119959576
+        ]
+      },
+      "id": 460,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.40",
+        "diameter": "36.68",
+        "treeUUID": "0x2ae67174604cd0a082ee1e52c351e95df9494a40359e24fc7851a08419b9061c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26700569579473,
+          44.25205642477999
+        ]
+      },
+      "id": 461,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.42",
+        "diameter": "38.46",
+        "treeUUID": "0xc44a366f93fb3dc3ef21174301912155d3fdecf7b6cac586e948bd468dfab5c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266897984627349,
+          44.25219058617418
+        ]
+      },
+      "id": 462,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.92",
+        "diameter": "36.15",
+        "treeUUID": "0x1e77bdb44f5de01cd7a8f9f09764ef436c3b3899d752ea58f6d60a5efd190d81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26680164757994,
+          44.25219901026388
+        ]
+      },
+      "id": 463,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.01",
+        "diameter": "35.14",
+        "treeUUID": "0x335a65827da76682d52b15532ae4a6452ba09e19bb87dc37e80a4710abdf32e7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267002876629265,
+          44.25207907156675
+        ]
+      },
+      "id": 464,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.08",
+        "diameter": "34.80",
+        "treeUUID": "0x7e0f3fde3cac63574f8a34dbb4b2e25c3db958fdc6a4cc4229dbe2d6a4ab0cd2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266843281432717,
+          44.25205949198528
+        ]
+      },
+      "id": 465,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.10",
+        "diameter": "37.11",
+        "treeUUID": "0xd6129e7f4550034144a671b8ce74df91b5d7ba2b57fee098daf9169d0e34d73f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267026320178505,
+          44.252092408769876
+        ]
+      },
+      "id": 466,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.00",
+        "diameter": "36.16",
+        "treeUUID": "0x331f3f954d71e6f65977a62353aed7e9c42e890022c98b3ece19a82a956b6646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267019662924254,
+          44.25216988707403
+        ]
+      },
+      "id": 467,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.38",
+        "diameter": "35.75",
+        "treeUUID": "0x289855ba993adad94caf1fefe2f9eb74f03070b46e78b799c28bc2db82fa3f49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266798120337233,
+          44.252154432321625
+        ]
+      },
+      "id": 468,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.93",
+        "diameter": "34.35",
+        "treeUUID": "0x85244e528a6884a84d86ac4e4606f38ef79184569b46b1e757b48d62e3339293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266835390395293,
+          44.25213016347016
+        ]
+      },
+      "id": 469,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.54",
+        "diameter": "36.88",
+        "treeUUID": "0x54f6d0a2bfc0a2fa3cd9bbf0538ee5aa46c78485a39808db4a42e8b2ce079434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266891908261988,
+          44.25210353850841
+        ]
+      },
+      "id": 470,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.92",
+        "diameter": "30.58",
+        "treeUUID": "0x9d9c0199364ed13278983fe156e3562b22ca47d7964edada895298d1439fe093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266780862260346,
+          44.25205607166105
+        ]
+      },
+      "id": 471,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.72",
+        "diameter": "31.07",
+        "treeUUID": "0xe63109d39f52aba08aa99280b79a7634d16149c03500c0f90e65fdc28b2954ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266964797428615,
+          44.25203617124032
+        ]
+      },
+      "id": 472,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.42",
+        "diameter": "33.38",
+        "treeUUID": "0x2622b760a897985f26305cc0eaf7792227538b92689b2e365f97b26dcf2f07ac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266753132780297,
+          44.25214612944102
+        ]
+      },
+      "id": 473,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "23.63",
+        "diameter": "35.30",
+        "treeUUID": "0x3117044c72e2446f2893e521ad93e5b48737b5ccadb0e512ba570dfa6b5dd18c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266774941051914,
+          44.25211151164556
+        ]
+      },
+      "id": 474,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.04",
+        "diameter": "32.65",
+        "treeUUID": "0xa1d372e7309d54b7be1dc691977f3122f3afa8ef97874aabdbcb0d51a384d916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266754115931066,
+          44.2520607348349
+        ]
+      },
+      "id": 475,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "21.09",
+        "diameter": "36.37",
+        "treeUUID": "0x7f18b034fad01c8618da65cd45c281d1663f175f9f84024440188d7322fc03bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266880482674733,
+          44.25204648212228
+        ]
+      },
+      "id": 476,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "22.90",
+        "diameter": "38.17",
+        "treeUUID": "0x697be35d46db7b928513c15bc56225054538f7c2588e8c0306944160428fcb18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266816163448185,
+          44.25215304070447
+        ]
+      },
+      "id": 477,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.43",
+        "diameter": "34.04",
+        "treeUUID": "0xf899c980e033a8866938ac99a118c8fbeeeb7843b97055e78be3df3ac56c5211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266939342667143,
+          44.252202185355095
+        ]
+      },
+      "id": 478,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "24.83",
+        "diameter": "30.54",
+        "treeUUID": "0x57e70ae594a54048819068523baf3f632d66d7483d18b80c4aa11e1c96771ac8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266974319072842,
+          44.25218786243032
+        ]
+      },
+      "id": 479,
+      "properties": {
+        "type": "Quercus petraea",
+        "height": "20.85",
+        "diameter": "35.06",
+        "treeUUID": "0xd19b649f37ef6df06ab785e9e576404020eab681ac59e4219ab86e271b9e74e2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276972928749855,
+          44.24742148270956
+        ]
+      },
+      "id": 80,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.15",
+        "diameter": "14.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277041383123535,
+          44.24739151939171
+        ]
+      },
+      "id": 81,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.89",
+        "diameter": "16.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277079672397214,
+          44.24749529949192
+        ]
+      },
+      "id": 82,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.77",
+        "diameter": "18.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277137461640073,
+          44.247406199443446
+        ]
+      },
+      "id": 83,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "15.14",
+        "diameter": "18.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277147167723399,
+          44.24750071786791
+        ]
+      },
+      "id": 84,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.49",
+        "diameter": "16.87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277028637327835,
+          44.24742211921516
+        ]
+      },
+      "id": 85,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.18",
+        "diameter": "19.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277057127600065,
+          44.24743795298666
+        ]
+      },
+      "id": 86,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.74",
+        "diameter": "15.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27714671334931,
+          44.24736023584531
+        ]
+      },
+      "id": 87,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.19",
+        "diameter": "17.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27697787387754,
+          44.247493519609264
+        ]
+      },
+      "id": 88,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.94",
+        "diameter": "18.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277011548064143,
+          44.2474491677337
+        ]
+      },
+      "id": 89,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.94",
+        "diameter": "19.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27703807131827,
+          44.247427933107026
+        ]
+      },
+      "id": 90,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.98",
+        "diameter": "19.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277159556900626,
+          44.24735369874235
+        ]
+      },
+      "id": 91,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.65",
+        "diameter": "15.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27716073618433,
+          44.24751313238995
+        ]
+      },
+      "id": 92,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.11",
+        "diameter": "14.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276975386112433,
+          44.24741961531782
+        ]
+      },
+      "id": 93,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.98",
+        "diameter": "21.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277207721200922,
+          44.24738987587573
+        ]
+      },
+      "id": 94,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.46",
+        "diameter": "18.83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277161812458823,
+          44.24735317824995
+        ]
+      },
+      "id": 95,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.78",
+        "diameter": "16.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277048072237774,
+          44.24735570454515
+        ]
+      },
+      "id": 96,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.76",
+        "diameter": "21.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276990089545807,
+          44.247483627950245
+        ]
+      },
+      "id": 97,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.52",
+        "diameter": "18.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27706795002846,
+          44.24752255880936
+        ]
+      },
+      "id": 98,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.62",
+        "diameter": "20.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276980849222989,
+          44.2474594810388
+        ]
+      },
+      "id": 99,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.15",
+        "diameter": "18.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27698500129736,
+          44.24752457779152
+        ]
+      },
+      "id": 100,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.77",
+        "diameter": "23.15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277021298802383,
+          44.24742266947034
+        ]
+      },
+      "id": 101,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.37",
+        "diameter": "22.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277034114996914,
+          44.247499752453216
+        ]
+      },
+      "id": 102,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.37",
+        "diameter": "17.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27707067532163,
+          44.247361915321584
+        ]
+      },
+      "id": 103,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.24",
+        "diameter": "20.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277215396412313,
+          44.247356490794914
+        ]
+      },
+      "id": 104,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.29",
+        "diameter": "19.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277186814631147,
+          44.24741729262746
+        ]
+      },
+      "id": 105,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.35",
+        "diameter": "21.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277103800767904,
+          44.24745279051183
+        ]
+      },
+      "id": 106,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "9.83",
+        "diameter": "15.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27714768185559,
+          44.24736653211251
+        ]
+      },
+      "id": 107,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "9.89",
+        "diameter": "19.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277001169390457,
+          44.24743354002295
+        ]
+      },
+      "id": 108,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.92",
+        "diameter": "20.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277049967753989,
+          44.247465131031596
+        ]
+      },
+      "id": 109,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.68",
+        "diameter": "13.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277059807700809,
+          44.247358471023304
+        ]
+      },
+      "id": 110,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.47",
+        "diameter": "15.04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277143703192923,
+          44.24746790078608
+        ]
+      },
+      "id": 111,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.21",
+        "diameter": "12.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277135475482202,
+          44.247527624942784
+        ]
+      },
+      "id": 112,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.29",
+        "diameter": "17.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276990734638243,
+          44.24735647887824
+        ]
+      },
+      "id": 113,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.76",
+        "diameter": "19.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277136745328209,
+          44.24736715685243
+        ]
+      },
+      "id": 114,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.97",
+        "diameter": "21.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27718744912533,
+          44.24742201295212
+        ]
+      },
+      "id": 115,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.50",
+        "diameter": "18.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277036514895267,
+          44.24743021038946
+        ]
+      },
+      "id": 116,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.97",
+        "diameter": "22.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277053139418214,
+          44.24738857257802
+        ]
+      },
+      "id": 117,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.57",
+        "diameter": "14.55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277032787421614,
+          44.24743834594109
+        ]
+      },
+      "id": 118,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.48",
+        "diameter": "13.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277109531629971,
+          44.2475087208481
+        ]
+      },
+      "id": 119,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.76",
+        "diameter": "17.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276999063712639,
+          44.247456740469524
+        ]
+      },
+      "id": 120,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.78",
+        "diameter": "18.96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277122460514498,
+          44.24752802071376
+        ]
+      },
+      "id": 121,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.30",
+        "diameter": "17.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277095121061999,
+          44.24737566019533
+        ]
+      },
+      "id": 122,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.84",
+        "diameter": "12.83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277018794947777,
+          44.24748670903676
+        ]
+      },
+      "id": 123,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.60",
+        "diameter": "17.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277136809289885,
+          44.247349364425666
+        ]
+      },
+      "id": 124,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.04",
+        "diameter": "14.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277189224623669,
+          44.24738688063418
+        ]
+      },
+      "id": 125,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.40",
+        "diameter": "19.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276972395731775,
+          44.24751997643358
+        ]
+      },
+      "id": 126,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.34",
+        "diameter": "18.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276989007733544,
+          44.247457892607024
+        ]
+      },
+      "id": 127,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.02",
+        "diameter": "15.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277137456838705,
+          44.247418317477845
+        ]
+      },
+      "id": 128,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.15",
+        "diameter": "16.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276998338166047,
+          44.247373386567716
+        ]
+      },
+      "id": 129,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.84",
+        "diameter": "15.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277137484100274,
+          44.24741710169248
+        ]
+      },
+      "id": 130,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.04",
+        "diameter": "17.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27715122334535,
+          44.247486701966714
+        ]
+      },
+      "id": 131,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.75",
+        "diameter": "20.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276975732756593,
+          44.24746486577192
+        ]
+      },
+      "id": 132,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.18",
+        "diameter": "15.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27708364998829,
+          44.247424354118266
+        ]
+      },
+      "id": 133,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.44",
+        "diameter": "19.26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27713830756559,
+          44.24735679165581
+        ]
+      },
+      "id": 134,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "15.23",
+        "diameter": "16.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277169565231247,
+          44.24736293420325
+        ]
+      },
+      "id": 135,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.85",
+        "diameter": "16.02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277138041737548,
+          44.24740273869065
+        ]
+      },
+      "id": 136,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.31",
+        "diameter": "17.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277011672120363,
+          44.247472237074554
+        ]
+      },
+      "id": 137,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.28",
+        "diameter": "15.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277026597242804,
+          44.247359677588214
+        ]
+      },
+      "id": 138,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "15.28",
+        "diameter": "16.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276975761357749,
+          44.247442366615275
+        ]
+      },
+      "id": 139,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.79",
+        "diameter": "15.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277037249478179,
+          44.247399042617594
+        ]
+      },
+      "id": 140,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.74",
+        "diameter": "22.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27697366861862,
+          44.247519353780426
+        ]
+      },
+      "id": 141,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.10",
+        "diameter": "18.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27707491547005,
+          44.24746307531466
+        ]
+      },
+      "id": 142,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "8.81",
+        "diameter": "16.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277165488426201,
+          44.24751742868404
+        ]
+      },
+      "id": 143,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.21",
+        "diameter": "18.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276976267448724,
+          44.24749992709836
+        ]
+      },
+      "id": 144,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.86",
+        "diameter": "17.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27712635279216,
+          44.24744116912629
+        ]
+      },
+      "id": 145,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.23",
+        "diameter": "17.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276954249950947,
+          44.24747226388121
+        ]
+      },
+      "id": 146,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.51",
+        "diameter": "19.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276960510962756,
+          44.24740386622081
+        ]
+      },
+      "id": 147,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.81",
+        "diameter": "19.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277168812532803,
+          44.247381268063755
+        ]
+      },
+      "id": 148,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.43",
+        "diameter": "16.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277133772087215,
+          44.24737995890412
+        ]
+      },
+      "id": 149,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.13",
+        "diameter": "16.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27708062773237,
+          44.247368411344034
+        ]
+      },
+      "id": 150,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.65",
+        "diameter": "17.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277185039804754,
+          44.24748471438131
+        ]
+      },
+      "id": 151,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "12.74",
+        "diameter": "12.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277012098636028,
+          44.24738452000088
+        ]
+      },
+      "id": 152,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "10.02",
+        "diameter": "14.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277211044456976,
+          44.247418133607056
+        ]
+      },
+      "id": 153,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.75",
+        "diameter": "21.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277190610330061,
+          44.24743652052997
+        ]
+      },
+      "id": 154,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.77",
+        "diameter": "22.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277210188295863,
+          44.247497627691686
+        ]
+      },
+      "id": 155,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.30",
+        "diameter": "17.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277091377447727,
+          44.24742933653497
+        ]
+      },
+      "id": 156,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "9.43",
+        "diameter": "19.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277151846028161,
+          44.247370916669304
+        ]
+      },
+      "id": 157,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "14.03",
+        "diameter": "18.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277036032119963,
+          44.24742547060887
+        ]
+      },
+      "id": 158,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "11.83",
+        "diameter": "25.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277003142648978,
+          44.24741630584994
+        ]
+      },
+      "id": 159,
+      "properties": {
+        "type": "Quercus pubescens",
+        "height": "13.86",
+        "diameter": "20.80"
+      }
+    }
+  ]
+}

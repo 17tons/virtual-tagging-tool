@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268210512409077,
+          44.251023399638996
+        ]
+      },
+      "id": 320,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.86",
+        "diameter": "24.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268279461674647,
+          44.25112712158139
+        ]
+      },
+      "id": 321,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.01",
+        "diameter": "18.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268318040798498,
+          44.25102385065873
+        ]
+      },
+      "id": 322,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.62",
+        "diameter": "16.66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26837624252304,
+          44.25107553603002
+        ]
+      },
+      "id": 323,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.06",
+        "diameter": "19.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268386021639266,
+          44.25098270141113
+        ]
+      },
+      "id": 324,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.64",
+        "diameter": "16.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268266622673595,
+          44.25098557873754
+        ]
+      },
+      "id": 325,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.02",
+        "diameter": "23.81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268295324985228,
+          44.250981814962586
+        ]
+      },
+      "id": 326,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.43",
+        "diameter": "21.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268385561933808,
+          44.2510229736402
+        ]
+      },
+      "id": 327,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.03",
+        "diameter": "17.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26821553027555,
+          44.251092319287544
+        ]
+      },
+      "id": 328,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.02",
+        "diameter": "24.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268249414866276,
+          44.251024546184766
+        ]
+      },
+      "id": 329,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.97",
+        "diameter": "22.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268276130234353,
+          44.250984904970025
+        ]
+      },
+      "id": 330,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.99",
+        "diameter": "17.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268398480589468,
+          44.25100755339441
+        ]
+      },
+      "id": 331,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.20",
+        "diameter": "22.68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268399683509305,
+          44.250985803829415
+        ]
+      },
+      "id": 332,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.88",
+        "diameter": "20.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268212993032673,
+          44.25101982568137
+        ]
+      },
+      "id": 333,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.82",
+        "diameter": "24.94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26844718414666,
+          44.25101051539639
+        ]
+      },
+      "id": 334,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.17",
+        "diameter": "20.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26840077450004,
+          44.251005460555774
+        ]
+      },
+      "id": 335,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.50",
+        "diameter": "18.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26828620435763,
+          44.25108652555683
+        ]
+      },
+      "id": 336,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.18",
+        "diameter": "19.81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26822779617889,
+          44.25107398213339
+        ]
+      },
+      "id": 337,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.08",
+        "diameter": "19.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2683062394355,
+          44.25105932307703
+        ]
+      },
+      "id": 338,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.69",
+        "diameter": "15.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268218483568353,
+          44.2510561049837
+        ]
+      },
+      "id": 339,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.87",
+        "diameter": "15.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268222682830231,
+          44.251118618496385
+        ]
+      },
+      "id": 340,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.58",
+        "diameter": "19.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268259234160643,
+          44.25099119833827
+        ]
+      },
+      "id": 341,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.34",
+        "diameter": "23.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268272144305685,
+          44.25105978246
+        ]
+      },
+      "id": 342,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.88",
+        "diameter": "24.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268308970313104,
+          44.2510771585044
+        ]
+      },
+      "id": 343,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.13",
+        "diameter": "23.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268455890985443,
+          44.25097101253643
+        ]
+      },
+      "id": 344,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.52",
+        "diameter": "18.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268425952143048,
+          44.25105260751079
+        ]
+      },
+      "id": 345,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.33",
+        "diameter": "23.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268342340973577,
+          44.250964496616874
+        ]
+      },
+      "id": 346,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.08",
+        "diameter": "16.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268386538610056,
+          44.25102863296123
+        ]
+      },
+      "id": 347,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.42",
+        "diameter": "20.68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268238955684556,
+          44.25101601549673
+        ]
+      },
+      "id": 348,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.69",
+        "diameter": "15.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268288120176503,
+          44.25101405138648
+        ]
+      },
+      "id": 349,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.23",
+        "diameter": "20.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268298030134714,
+          44.25108119737928
+        ]
+      },
+      "id": 350,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.27",
+        "diameter": "15.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26838253867298,
+          44.25113320214797
+        ]
+      },
+      "id": 351,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.99",
+        "diameter": "17.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268374254827984,
+          44.25101779755105
+        ]
+      },
+      "id": 352,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.38",
+        "diameter": "22.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268228452003708,
+          44.25112688670669
+        ]
+      },
+      "id": 353,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.61",
+        "diameter": "15.94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268375512931094,
+          44.25103682144031
+        ]
+      },
+      "id": 354,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "14.27",
+        "diameter": "17.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268426603964116,
+          44.25105690245406
+        ]
+      },
+      "id": 355,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.78",
+        "diameter": "20.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26827456382853,
+          44.25098826750148
+        ]
+      },
+      "id": 356,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.08",
+        "diameter": "18.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268291306599657,
+          44.25111604364907
+        ]
+      },
+      "id": 357,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.62",
+        "diameter": "16.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268270808755375,
+          44.25099901159862
+        ]
+      },
+      "id": 358,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "12.54",
+        "diameter": "22.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268348109827473,
+          44.25101672476839
+        ]
+      },
+      "id": 359,
+      "properties": {
+        "type": "Acer campestre",
+        "height": "13.41",
+        "diameter": "24.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268236845885525,
+          44.25104076655643
+        ]
+      },
+      "id": 360,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.67",
+        "diameter": "27.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268361142052315,
+          44.25102717652654
+        ]
+      },
+      "id": 361,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.04",
+        "diameter": "26.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268333592098445,
+          44.25107409189008
+        ]
+      },
+      "id": 362,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.47",
+        "diameter": "28.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268256712194656,
+          44.251057257568995
+        ]
+      },
+      "id": 363,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.67",
+        "diameter": "30.96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268375591183785,
+          44.25101888581372
+        ]
+      },
+      "id": 364,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.23",
+        "diameter": "31.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268428406758622,
+          44.2510203769799
+        ]
+      },
+      "id": 365,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.55",
+        "diameter": "29.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268210015521817,
+          44.25112267677202
+        ]
+      },
+      "id": 366,
+      "properties": {
+        "type": "Populus alba",
+        "height": "24.56",
+        "diameter": "27.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268226709997624,
+          44.25104887543303
+        ]
+      },
+      "id": 367,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.07",
+        "diameter": "29.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268376232825544,
+          44.2510877153985
+        ]
+      },
+      "id": 368,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.47",
+        "diameter": "31.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268236099454386,
+          44.25113862396501
+        ]
+      },
+      "id": 369,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.53",
+        "diameter": "32.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268376267373206,
+          44.25108646553913
+        ]
+      },
+      "id": 370,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.90",
+        "diameter": "25.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268390113029392,
+          44.250965816568915
+        ]
+      },
+      "id": 371,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.97",
+        "diameter": "30.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2682133377366,
+          44.25106504414971
+        ]
+      },
+      "id": 372,
+      "properties": {
+        "type": "Populus alba",
+        "height": "21.19",
+        "diameter": "27.15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268322039395748,
+          44.25113092073675
+        ]
+      },
+      "id": 373,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.13",
+        "diameter": "26.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268377086790572,
+          44.25102532412294
+        ]
+      },
+      "id": 374,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.21",
+        "diameter": "28.87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268408578870613,
+          44.25100991634686
+        ]
+      },
+      "id": 375,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.14",
+        "diameter": "31.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268376828986346,
+          44.25107166055525
+        ]
+      },
+      "id": 376,
+      "properties": {
+        "type": "Populus alba",
+        "height": "24.08",
+        "diameter": "29.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268249546222055,
+          44.251047630451474
+        ]
+      },
+      "id": 377,
+      "properties": {
+        "type": "Populus alba",
+        "height": "24.39",
+        "diameter": "33.04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268264579985798,
+          44.251105337211925
+        ]
+      },
+      "id": 378,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.67",
+        "diameter": "34.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268213356991799,
+          44.25104242798266
+        ]
+      },
+      "id": 379,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.90",
+        "diameter": "31.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268275305806862,
+          44.251137528484996
+        ]
+      },
+      "id": 380,
+      "properties": {
+        "type": "Populus alba",
+        "height": "21.04",
+        "diameter": "25.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268211229197465,
+          44.2511212175932
+        ]
+      },
+      "id": 381,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.36",
+        "diameter": "28.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268313246855023,
+          44.25099476901002
+        ]
+      },
+      "id": 382,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.04",
+        "diameter": "27.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268404485845277,
+          44.25098682881078
+        ]
+      },
+      "id": 383,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.87",
+        "diameter": "30.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268213896469904,
+          44.25109987578994
+        ]
+      },
+      "id": 384,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.01",
+        "diameter": "26.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268365050324057,
+          44.25111832942097
+        ]
+      },
+      "id": 385,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.54",
+        "diameter": "34.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268192534491176,
+          44.251086730501065
+        ]
+      },
+      "id": 386,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.07",
+        "diameter": "33.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268198011651823,
+          44.251014266035455
+        ]
+      },
+      "id": 387,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.33",
+        "diameter": "27.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26840782524708,
+          44.25102884518994
+        ]
+      },
+      "id": 388,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.34",
+        "diameter": "30.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268372522520284,
+          44.25105172872987
+        ]
+      },
+      "id": 389,
+      "properties": {
+        "type": "Populus alba",
+        "height": "21.78",
+        "diameter": "27.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268318990439838,
+          44.25107681383474
+        ]
+      },
+      "id": 390,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.08",
+        "diameter": "28.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268424168883602,
+          44.25112155431393
+        ]
+      },
+      "id": 391,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.80",
+        "diameter": "28.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26824995927537,
+          44.25114030878946
+        ]
+      },
+      "id": 392,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.18",
+        "diameter": "26.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268450434355138,
+          44.25103667280208
+        ]
+      },
+      "id": 393,
+      "properties": {
+        "type": "Populus alba",
+        "height": "21.39",
+        "diameter": "26.55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268429778270857,
+          44.25106930034574
+        ]
+      },
+      "id": 394,
+      "properties": {
+        "type": "Populus alba",
+        "height": "24.46",
+        "diameter": "31.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268449504226114,
+          44.25111716686343
+        ]
+      },
+      "id": 395,
+      "properties": {
+        "type": "Populus alba",
+        "height": "22.82",
+        "diameter": "34.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268329825688632,
+          44.25113058821727
+        ]
+      },
+      "id": 396,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.09",
+        "diameter": "33.26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268390735561564,
+          44.25103015767355
+        ]
+      },
+      "id": 397,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.87",
+        "diameter": "31.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.268274075629904,
+          44.25098383784393
+        ]
+      },
+      "id": 398,
+      "properties": {
+        "type": "Populus alba",
+        "height": "23.89",
+        "diameter": "33.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26824094571293,
+          44.25099733990202
+        ]
+      },
+      "id": 399,
+      "properties": {
+        "type": "Populus alba",
+        "height": "20.89",
+        "diameter": "27.38"
+      }
+    }
+  ]
+}
