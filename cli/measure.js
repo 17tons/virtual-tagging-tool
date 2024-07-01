@@ -33,7 +33,7 @@ async function main() {
                         "treeUUID": feature.properties.treeUUID
                     }, {
                         headers: {
-                            Authorization: "Bearer 0x930b1c974687221b38d5baa99c878605f4013c0f49cfefb1c21a18bac286a39ae379600e8a3e0e32892d51a0328833dd39a43960ecb3babadd1405baa6bef19477ba2e98b684a14699903a5e0c9c66f31de0f1242bcaff58"
+                            Authorization: "Bearer " + process.env.ADMIN_TOKEN
                         }
                     })
                     console.log(measured.data)
